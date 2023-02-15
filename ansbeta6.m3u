@@ -6687,6 +6687,10 @@ http://mytv.fun:80/movie/kathy2/8o3og0c65s/697303.mp4
 http://mytv.fun:80/movie/kathy2/8o3og0c65s/698101.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN | Thriller | Glass Onion: A Knives Out Mystery 2022" tvg-logo="http://mytv.fun:8080/images/QaNLpq3Wuu2yp5ESsXYcQCOpUk_small.jpg" group-title="VOD United Kingdom",EN | Thriller | Glass Onion: A Knives Out Mystery 2022
 http://mytv.fun:80/movie/kathy2/8o3og0c65s/698102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN | Action | Black Panther Wakanda Forever 2022" tvg-logo="http://mytv.fun:8080/images/QaNLpq3Wuu2yp5ESsXYcQCOpUk_small.jpg" group-title="VOD United Kingdom",EN | Action | Black Panther Wakanda Forever 2022
+http://mytv.fun:80/movie/kathy2/8o3og0c65s/698346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Horror Story-2011 S08 American.Horror.Story.S08E01 " tvg-logo="http://mypanel.tv:8080/images/gwSzP1cJL2HsBmGStN2vOg3d4Qd_small.jpg" group-title="VOD English Series",American Horror Story-2011 S08 American.Horror.Story.S08E01 
+http://mytv.fun:80/series/kathy2/8o3og0c65s/664154.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EN | Western | 3-10 to Yuma 2007" tvg-logo="http://mytv.fun:80/images/9Nwkh0eQmkymEOR0ovAALtjSIZW_small.jpg" group-title="VOD United Kingdom",EN | Western | 3-10 to Yuma 2007
 http://mytv.fun:80/movie/kathy2/8o3og0c65s/645781.mp4
 #EXTINF:-1 tvg-id="" tvg-name="EN | Western | A Fistful of Dollars 1964" tvg-logo="http://mytv.fun:80/images/sFLgxvtK9vxbNq502peVJ847Owp_small.jpg" group-title="VOD United Kingdom",EN | Western | A Fistful of Dollars 1964
@@ -7927,6 +7931,8 @@ http://mytv.fun:80/kathy2/8o3og0c65s/678142
 http://mytv.fun:80/kathy2/8o3og0c65s/14358
 #EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="One America News HD VIP US" tvg-logo="https://i.postimg.cc/ZqVb1wkN/One-America-News-Network.jpg" group-title="United States",One America News HD VIP US
 http://mytv.fun:80/kathy2/8o3og0c65s/688547
+#EXTINF:-1 tvg-id="newsmax.us" tvg-name="Newsmax HD VIP US" tvg-logo="https://i.postimg.cc/g2hjzNrd/Newsmax_2021.png" group-title="United States",Newsmax HD VIP US
+http://mytv.fun:80/kathy2/8o3og0c65s/698241
 #EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="Bloomberg HD VIP US" tvg-logo="https://i.postimg.cc/xCkXMt8s/Bloomberg-tv-2016.jpg" group-title="United States",Bloomberg HD VIP US
 http://mytv.fun:80/kathy2/8o3og0c65s/6360
 #EXTINF:-1 tvg-id="cbnnews.us" tvg-name="CBS News HD VIP US" tvg-logo="https://i.postimg.cc/LsTyqL5Z/CBSN_2021.jpg" group-title="United States",CBS News HD VIP US
@@ -8009,7 +8015,7 @@ http://mytv.fun:80/kathy2/8o3og0c65s/676924
 http://mytv.fun:80/kathy2/8o3og0c65s/14343
 #EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="Paramount Network HD US" tvg-logo="https://i.postimg.cc/JhLhp1Fw/Paramount-Network.png" group-title="United States",Paramount Network HD US
 http://mytv.fun:80/kathy2/8o3og0c65s/677220
-#EXTINF:-1 tvg-id="sony.us" tvg-name="Sony Movie Channel HD VIP US" tvg-logo="https://i.postimg.cc/Qt6xNcds/Sony-Movies-2019.png" group-title="United States",Sony Movie Channel HD VIP US
+#EXTINF:-1 tvg-id="sony.us" tvg-name="Sony Movies HD VIP US" tvg-logo="https://i.postimg.cc/Qt6xNcds/Sony-Movies-2019.png" group-title="United States",Sony Movies HD VIP US
 http://mytv.fun:80/kathy2/8o3og0c65s/677222
 #EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform HD US" tvg-logo="https://i.postimg.cc/VvdsJ5Jt/Freeform-2018.jpg" group-title="United States",Freeform HD US
 http://mytv.fun:80/kathy2/8o3og0c65s/677202
@@ -8143,6 +8149,10 @@ http://mytv.fun:80/kathy2/8o3og0c65s/684763
 http://mytv.fun:80/kathy2/8o3og0c65s/667813
 #EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="Sportsman HD VIP US" tvg-logo="https://i.postimg.cc/90MVXjCz/sportsman-channel.jpg" group-title="United States",Sportsman HD VIP US
 http://mytv.fun:80/kathy2/8o3og0c65s/677145
+#EXTINF:-1 tvg-id="nasachannel.us" tvg-name="NASA TV HD VIP US" tvg-logo="https://i.postimg.cc/3RMBj2Lp/NASA.png" group-title="United States",NASA TV HD VIP US
+http://mytv.fun:80/kathy2/8o3og0c65s/698311
+#EXTINF:-1 tvg-id="" tvg-name="NASA UHD 4K US" tvg-logo="https://i.postimg.cc/3RMBj2Lp/NASA.png" group-title="United States",NASA UHD 4K US
+http://mytv.fun:80/kathy2/8o3og0c65s/698310
 #EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ USA Kids ⭒✽✽" tvg-logo="https://i.postimg.cc/RVM5TL5R/USA-Flag.png" group-title="United States",✽✽⭒ USA Kids ⭒✽✽
 http://mytv.fun:80/kathy2/8o3og0c65s/677102
 #EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network HD VIP US" tvg-logo="https://i.postimg.cc/gkPXWBXX/Cartoon-Network-2010.jpg" group-title="United States",Cartoon Network HD VIP US
@@ -8485,13 +8495,13 @@ http://mytv.fun:80/kathy2/8o3og0c65s/695741
 http://mytv.fun:80/kathy2/8o3og0c65s/697883
 #EXTINF:-1 tvg-id="btsportsboxoffice.uk" tvg-name="BT Sport Box Office [Match Time] HD VIP UK" tvg-logo="https://i.postimg.cc/mrr0p9pm/BT-Sport-Box-Office.jpg" group-title="United Kingdom",BT Sport Box Office [Match Time] HD VIP UK
 http://mytv.fun:80/kathy2/8o3og0c65s/697884
-#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="Viaplay Sports 1 FHD VIP UK" tvg-logo="https://i.postimg.cc/wj2bvvG6/Viaplay_Sports_1.jpg" group-title="United Kingdom",Viaplay Sports 1 FHD VIP UK
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="Premier Sports 1 FHD VIP UK" tvg-logo="https://i.postimg.cc/wj2bvvG6/Viaplay_Sports_1.jpg" group-title="United Kingdom",Premier Sports 1 FHD VIP UK
 http://mytv.fun:80/kathy2/8o3og0c65s/692340
-#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="Viaplay Sports 1 HD VIP UK" tvg-logo="https://i.postimg.cc/wj2bvvG6/Viaplay_Sports_1.jpg" group-title="United Kingdom",Viaplay Sports 1 HD VIP UK
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="Premier Sports 1 HD VIP UK" tvg-logo="https://i.postimg.cc/wj2bvvG6/Viaplay_Sports_1.jpg" group-title="United Kingdom",Premier Sports 1 HD VIP UK
 http://mytv.fun:80/kathy2/8o3og0c65s/692341
-#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="Viaplay Sports 2 FHD VIP UK" tvg-logo="https://i.postimg.cc/9FGn61Pw/Viaplay_Sports_2.jpg" group-title="United Kingdom",Viaplay Sports 2 FHD VIP UK
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="Premier Sports 2 FHD VIP UK" tvg-logo="https://i.postimg.cc/9FGn61Pw/Viaplay_Sports_2.jpg" group-title="United Kingdom",Premier Sports 2 FHD VIP UK
 http://mytv.fun:80/kathy2/8o3og0c65s/692342
-#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="Viaplay Sports 2 HD VIP UK" tvg-logo="https://i.postimg.cc/9FGn61Pw/Viaplay_Sports_2.jpg" group-title="United Kingdom",Viaplay Sports 2 HD VIP UK
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="Premier Sports 2 HD VIP UK" tvg-logo="https://i.postimg.cc/9FGn61Pw/Viaplay_Sports_2.jpg" group-title="United Kingdom",Premier Sports 2 HD VIP UK
 http://mytv.fun:80/kathy2/8o3og0c65s/692343
 #EXTINF:-1 tvg-id="freesports.uk" tvg-name="Viaplay Xtra FHD VIP UK" tvg-logo="https://i.postimg.cc/W1THTrSW/Viaplay_Xtra.jpg" group-title="United Kingdom",Viaplay Xtra FHD VIP UK
 http://mytv.fun:80/kathy2/8o3og0c65s/692344
@@ -8779,7 +8789,7 @@ http://mytv.fun:80/kathy2/8o3og0c65s/692582
 http://mytv.fun:80/kathy2/8o3og0c65s/692583
 #EXTINF:-1 tvg-id="tvwarehouse.uk" tvg-name="TV Warehouse UK" tvg-logo="https://i.postimg.cc/k5421DzR/tv-warehouse.jpg" group-title="United Kingdom",TV Warehouse UK
 http://mytv.fun:80/kathy2/8o3og0c65s/692461
-#EXTINF:-1 tvg-id="colors.uk" tvg-name="Colors TV VIP UK" tvg-logo="https://i.postimg.cc/W3B1MqzG/Colors-2016.jpg" group-title="United Kingdom",Colors TV VIP UK
+#EXTINF:-1 tvg-id="colors.uk" tvg-name="Colors FHD VIP UK" tvg-logo="https://i.postimg.cc/W3B1MqzG/Colors-2016.jpg" group-title="United Kingdom",Colors FHD VIP UK
 http://mytv.fun:80/kathy2/8o3og0c65s/692584
 #EXTINF:-1 tvg-id="colorsrishtey.uk" tvg-name="Colors Rishtey VIP UK" tvg-logo="https://i.postimg.cc/66C9k3TP/Colors-rishtey.jpg" group-title="United Kingdom",Colors Rishtey VIP UK
 http://mytv.fun:80/kathy2/8o3og0c65s/692585
@@ -8793,7 +8803,7 @@ http://mytv.fun:80/kathy2/8o3og0c65s/692588
 http://mytv.fun:80/kathy2/8o3og0c65s/692589
 #EXTINF:-1 tvg-id="stargold.uk" tvg-name="Star Gold HD VIP UK" tvg-logo="https://i.postimg.cc/Z5ts1bBw/Star_Gold_2020.jpg" group-title="United Kingdom",Star Gold HD VIP UK
 http://mytv.fun:80/kathy2/8o3og0c65s/692521
-#EXTINF:-1 tvg-id="starplus.uk" tvg-name="Utsav VIP UK" tvg-logo="https://i.postimg.cc/gJV3Lpk2/Utsav_Plus_logo.jpg" group-title="United Kingdom",Utsav VIP UK
+#EXTINF:-1 tvg-id="starplus.uk" tvg-name="Utsav Plus VIP UK" tvg-logo="https://i.postimg.cc/gJV3Lpk2/Utsav_Plus_logo.jpg" group-title="United Kingdom",Utsav Plus VIP UK
 http://mytv.fun:80/kathy2/8o3og0c65s/692590
 #EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ UK Documentary ⭒✽✽" tvg-logo="https://i.postimg.cc/05wGdn5Y/Uk-Flag2.png" group-title="United Kingdom",✽✽⭒ UK Documentary ⭒✽✽
 http://mytv.fun:80/kathy2/8o3og0c65s/692440
