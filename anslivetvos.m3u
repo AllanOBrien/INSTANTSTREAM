@@ -20,7 +20,7 @@ http://ip365.cx:80/3160760056/1016703067/400200042
 #EXTINF:-1 group-title="TRINIDAD" tvg-id="CCNTV6.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CCN TV6 SD
 http://ip365.cx:80/3160760056/1016703067/268269
 #EXTINF:-1 group-title="TRINIDAD" tvg-id="CCNTV6.tt" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CCN TV6 HD
-http://ip365.cx:80/3160760056/1016703067/268269
+http://ip365.cx:900/3160760056/1016703067/268269
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldL1eHXjoBoM-kJSCDI4tVjubQiR0BBqHdjM3RGbOW6Z1zONeBlTYXG6TuQArTnAdjJQ&usqp=CAU",MCTV Caribbean
 http://ip365.cx:80/3160760056/1016703067/376181
 #EXTINF:-1 group-title="CARIBBEAN" tvg-id="revolt.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Revolt_TV_2020.png/250px-Revolt_TV_2020.png",REVOLT HD
@@ -1854,15 +1854,15 @@ https://stitcher.pluto.tv/stitch/hls/channel/60f75919718aed0007250d7a/master.m3u
 #EXTINF:-1 tvg-id="5fff49cfb5cd4f0007c2b0dc" tvg-name="News 12 New York" tvg-logo="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png" group-title="PLUTO TV CHANNELS" ,News 12 New York
 https://stitcher.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=32d387e3-1a7e-11ed-91db-0242ac110003
 #EXTINF:-1 group-title="USA CHANNELS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CAR: CNC3 TRINIDAD
-https://is.gd/NAEBK7
+http://ip365.cx:80/3160760056/1016703067/195830
 #EXTINF:-1 group-title="USA CHANNELS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png",CAR: CNC3 TRINIDAD
 http://ip365.cx:900/3160760056/1016703067/195830
 #EXTINF:-1 group-title="USA CHANNELS" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",CAR: TTT TRINIDAD
-https://is.gd/iUeAUj
+http://ip365.cx:80/3160760056/1016703067/400200042
 #EXTINF:-1 group-title="USA CHANNELS" tvg-logo="http://ky-iptv.com:25461/images/46474f9e9ad3e98c1497fbffd82f5cf6.png",CAR: TTT TRINIDAD
 http://ip365.cx:900/3160760056/1016703067/400200042
 #EXTINF:-1 group-title="USA CHANNELS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CAR: TV6 TRINIDAD
-http://eminent.live:25461/live/zulema5438/sandoval8345/218020.ts
+http://ip365.cx:80/3160760056/1016703067/268269
 #EXTINF:-1 group-title="USA CHANNELS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/ccn_tv6_tt.png",CAR: TV6 TRINIDAD
 http://ip365.cx:900/3160760056/1016703067/268269
 #EXTINF:-1 group-title="USA CHANNELS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/synergy-tv-tt.png",CAR: SYNERGY TV TRINIDAD
