@@ -76,9 +76,9 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:SANKHYA.smil/playli
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-id="ZeeCinema.in" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png",ZEE CINEMA
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEE_CINEMA.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-id="ZeeTV.in" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20191222192526",ZEE HD
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:ZEETV.smil/playlist.m3u8
+http://ip365.cx:80/3160760056/1016703067/187372
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/14/Zee_World.jpg/revision/latest/scale-to-width-down/80?cb=20180625105234",Zee World
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ZEE_WORLD.smil/playlist.m3u8
+http://ip365.cx:80/3160760056/1016703067/400318022
 #EXTINF:-1 group-title="RELIGION" tvg-id="3ABNEnglish.us" tvg-logo="https://3abn.org/img/3abn-ogg.png",3ABN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b2160000.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",CBN Live
@@ -6462,11 +6462,11 @@ http://ky-iptv.com:80/live/Nestor1234/Nestor1234/1861577.ts
 #EXTINF:-1 group-title="USA CHANNELS" tvg-logo="http://ky-iptv.com:80/images/545b941e49f942209e740f91aab2a283.png",USA FOX 11 WLUK GREEN BAY
 http://ky-iptv.com:80/live/Nestor1234/Nestor1234/517268.m3u8
 #EXTINF:-1 group-title="Español" tvg-id="K17JIDT4.us" tvg-country="HISPAM;US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4ydVVIA.png",3ABN Latino
-http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+http://ip365.cx:80/3160760056/1016703067/253098
 #EXTINF:-1 group-title="Español" tvg-id="5RTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4o9hQRI.png",5RTv
-https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+http://ip365.cx:80/3160760056/1016703067/400145276
 #EXTINF:-1 group-title="Español" tvg-id="5TV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kujnLsO.png",5TV
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+http://ip365.cx:80/3160760056/1016703067/400145275
 #EXTINF:-1 group-title="Español" tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/frd60hR.png",AgrotendenciaTV
 https://inliveserver.com:1936/15506/15506/playlist.m3u8
 #EXTINF:-1 group-title="Español" tvg-id="AmericaSports.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GOQ9zOI.png",América Sports
