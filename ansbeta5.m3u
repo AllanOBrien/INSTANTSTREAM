@@ -177,16 +177,6 @@ http://mytv.fun:8080/live/kathy2/8o3og0c65s/678027.ts
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/678025.ts
 #EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/B6vvk2D5/supersport-maximo-1.png",SUPERSPORT MAXIMO HD AF
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/682919.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/bvBrJGr7/Starhub.png",✽✽⭒ STARHUB ⭒✽✽
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695920.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/qRyjgwNC/Hub_Premier_1.png",HUB PREMIER 1 FHD SG
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/694219.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/Kj5fDYrG/Hub_Premier_2.png",HUB PREMIER 2 FHD SG
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/694220.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/9021999g/Hub_Premier_3.png",HUB PREMIER 3 FHD SG
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/694221.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/Vs9K87yx/Hub_Premier_4.png",HUB PREMIER 4 FHD SG
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/694222.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/5yb5Wx9Z/Optus-Sport.png",✽✽⭒ OPTUS SPORTS ⭒✽✽
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/683279.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/5yb5Wx9Z/Optus-Sport.png",OPTUS 1 [MATCH TIME] HD VIP AU
@@ -255,68 +245,6 @@ http://mytv.fun:8080/live/kathy2/8o3og0c65s/689288.ts
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/689289.ts
 #EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/vTkkmvW3/BS-NBA.png",BEIN SPORTS NBA FHD VIP AR
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/694111.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/HnqHKbtN/DAZN.jpg",✽✽⭒ DAZN ⭒✽✽
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/696632.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/HnqHKbtN/DAZN.jpg",DAZN 1 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/696634.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/HnqHKbtN/DAZN.jpg",DAZN 2 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/696635.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/HnqHKbtN/DAZN.jpg",DAZN 1 [MATCH TIME] HD VIP UK
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/696627.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/HnqHKbtN/DAZN.jpg",DAZN 2 [MATCH TIME] HD VIP UK
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/696628.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",✽✽⭒ ESPN + PPV EVENTS ⭒✽✽
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695897.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 1 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695899.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 2 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695900.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 3 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695901.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 4 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695902.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 5 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695903.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 6 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695904.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 7 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695905.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 8 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695906.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 9 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695907.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 10 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695908.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 11 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695909.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 12 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695910.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 13 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695911.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 14 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695912.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 15 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695913.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 16 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695914.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 17 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695915.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 18 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695916.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 19 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695917.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 20 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/695918.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 21 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/696779.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 22 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/696778.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 23 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/696780.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 24 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/696781.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/BQSjgRr9/ESPN.jpg",ESPN + 25 [MATCH TIME] HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/696782.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/9QPrsm4p/Sport-Flag.png",✽✽⭒ AU SPORTS ⭒✽✽
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/693953.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/bNKB4ncM/Fox-Sports-News-2015.jpg",FOX SPORTS NEWS AU
@@ -387,16 +315,14 @@ http://mytv.fun:8080/live/kathy2/8o3og0c65s/682966.ts
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/682968.ts
 #EXTINF:-1 tvg-id="rmcsportlive12.fr" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/prZ1Gn8G/RMC_Sport_Live_12.jpg",RMC SPORT 12 [MATCH TIME] FHD FR
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/682969.ts
-#EXTINF:-1 tvg-id="rmcsportlive13.fr" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/28ktq2RP/RMC_Sport_Live_13.jpg",RMC SPORT 13 [MATCH TIME] FHD FR
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/682970.ts
-#EXTINF:-1 tvg-id="rmcsportlive14.fr" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/kgZYpC6m/RMC_Sport_Live_14.jpg",RMC SPORT 14 [MATCH TIME] FHD FR
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/682971.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/9QPrsm4p/Sport-Flag.png",✽✽⭒ GLOBAL SPORTS AR ⭒✽✽
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/683571.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/15gBbTsP/Flow-Sports.png",FLOW SPORTS FHD CAR
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/695146.ts
-#EXTINF:-1 tvg-id="onsport1.sa" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/zX8LmHzr/On-Time-Sports-Logo.png",ON TIME SPORT HD AR
+#EXTINF:-1 tvg-id="onsport1.sa" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/zX8LmHzr/On-Time-Sports-Logo.png",ON TIME SPORT FHD AR
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/688268.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/DyDryWjz/On-Time-Sports-2.jpg",ON TIME SPORTS 2 FHD AR
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698486.ts
 #EXTINF:-1 tvg-id="abudhabisports1.ae" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/SRDVLFS1/Ad-sport-1.jpg",AD SPORTS 1 HD AR
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/682978.ts
 #EXTINF:-1 tvg-id="abudhabisports2.ae" tvg-name="" group-title="SPORTS & PPV" tvg-logo="https://i.postimg.cc/jSGc4hTT/Ad-sport-2.jpg",AD SPORTS 2 HD AR
@@ -457,7 +383,7 @@ http://mytv.fun:8080/live/kathy2/8o3og0c65s/4875.ts
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/677158.ts
 #EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/pdzzvM6x/NBC-Sports-Boston.jpg",NBC SPORTS BOSTON FHD US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/677159.ts
-#EXTINF:-1 tvg-id="ballysportssandiego.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/fLQfQDwD/Nbcsphi-pri-fc-pos.jpg",NBC SPORTS PHILADELPHIA HD VIP US
+#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/fLQfQDwD/Nbcsphi-pri-fc-pos.jpg",NBC SPORTS PHILADELPHIA HD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/694114.ts
 #EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/0NXQhW8x/NBC-Sports-California.jpg",NBC SPORTS CALIFORNIA FHD US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/677160.ts
@@ -507,8 +433,6 @@ http://mytv.fun:8080/live/kathy2/8o3og0c65s/677172.ts
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/696736.ts
 #EXTINF:-1 tvg-id="sportsnetnewyork.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/YqXgkz11/Sportsnet-New-York.jpg",SPORTSNET NEW YORK VIP HD US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/677151.ts
-#EXTINF:-1 tvg-id="atandtsportsnetpittsburgh.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/26xNWM8H/AT_T_SportsNet.jpg", AT&T SPORTSNET PITTSBURGH HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/696727.ts
 #EXTINF:-1 tvg-id="atandtsportsnetrockymountain.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/26xNWM8H/AT_T_SportsNet.jpg",AT&T SPORTSNET ROCKY MOUNTAIN HD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/696728.ts
 #EXTINF:-1 tvg-id="atandtsportsnetsouthwest.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/26xNWM8H/AT_T_SportsNet.jpg",AT&T SPORTSNET SOUTHWEST HD VIP US
@@ -553,6 +477,10 @@ http://mytv.fun:8080/live/kathy2/8o3og0c65s/688786.ts
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/623146.ts
 #EXTINF:-1 tvg-id="madisonsquaregarden2.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/0ySXWfw4/MSG-Plus.jpg",MSG 2 HD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/677150.ts
+#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/m2VvXvTC/NESN-Plus.jpg",NESN+ HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/34415.ts
+#EXTINF:-1 tvg-id="cbnnews.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/LsTyqL5Z/CBSN_2021.jpg",NESN+ HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/696726.ts
 #EXTINF:-1 tvg-id="stadium.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/MZQNs28h/Stadium.jpg",STADIUM HD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/696721.ts
 #EXTINF:-1 tvg-id="pac12arizona.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/Bt9HXxn8/Pac-12-Networks.png",PAC-12 ARIZONA HD VIP US
@@ -577,18 +505,12 @@ http://mytv.fun:8080/live/kathy2/8o3og0c65s/683883.ts
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/14404.ts
 #EXTINF:-1 tvg-id="mavtv.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/fL36s0qt/MavTV.jpg",MAV TV HD US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/677152.ts
-#EXTINF:-1 tvg-id="newenglandsportsnetwork.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/KY3NvrF2/NESN.jpg",NESN HD US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/34415.ts
 #EXTINF:-1 tvg-id="tennischannel.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/CxqBRvZm/Tennis-Channel.jpg",TENNIS CHANNEL FHD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/683506.ts
 #EXTINF:-1 tvg-id="tennischannel.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/CxqBRvZm/Tennis-Channel.jpg",TENNIS CHANNEL HD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/684767.ts
 #EXTINF:-1 tvg-id="willowcricket.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/bwyYh3xZ/Willow-Cricket.jpg",WILLOW CRICKET HD US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/677818.ts
-#EXTINF:-1 tvg-id="tvg.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/W4TcC0rL/Fanduel-TV.png",FANDUEL TV HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/678070.ts
-#EXTINF:-1 tvg-id="tvg2.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/sXtkPLYz/Fan-Duel-Racing.png",FANDUEL RACING HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/678071.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/RVM5TL5R/USA-Flag.png",✽✽⭒ USA NEWS ⭒✽✽
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/677099.ts
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/X7Jybfw7/Fox-News.png",FOX NEWS HD VIP US
@@ -601,8 +523,6 @@ http://mytv.fun:8080/live/kathy2/8o3og0c65s/688547.ts
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/698241.ts
 #EXTINF:-1 tvg-id="bloombergtv.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/xCkXMt8s/Bloomberg-tv-2016.jpg",BLOOMBERG HD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/6360.ts
-#EXTINF:-1 tvg-id="cbnnews.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/LsTyqL5Z/CBSN_2021.jpg",CBS NEWS HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/696726.ts
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/250W41w5/CNBC.jpg",CNBC FHD US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/4956.ts
 #EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/rwJQzCD0/CNBC-World.jpg",CNBC WORLD HD VIP US
@@ -657,9 +577,11 @@ http://mytv.fun:8080/live/kathy2/8o3og0c65s/4898.ts
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/685180.ts
 #EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/rwbrh3Xk/Starz-Encore-Family.png",STARZ ENCORE FAMILY HD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/685185.ts
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/pVgTkSyb/Starz-Encore-Black.png",STARS ENCORE BLACK HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698480.ts
 #EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/wBJTSSTj/Starz-Encore-Westerns.png",STARZ ENCORE WESTERNS HD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/698410.ts
-#EXTINF:-1 tvg-id="mgm.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/ZqFgK3hs/MGM-plus.png",MGM+ HD VIP US
+#EXTINF:-1 tvg-id="mgmhits.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/q7mcgfsZ/MGM-plus-Hits.png",MGM+ HITS HD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/677216.ts
 #EXTINF:-1 tvg-id="mgmmarquee.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/HxmrXqRs/MGM-plus-Marquee.png",MGM+ MARQUEE FHD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/696717.ts
@@ -667,6 +589,8 @@ http://mytv.fun:8080/live/kathy2/8o3og0c65s/696717.ts
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/4912.ts
 #EXTINF:-1 tvg-id="actionmax.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/tRPMjpSv/Action-max.jpg",ACTION MAX FHD US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/4869.ts
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/Pf97xgr7/Thriller-Max.jpg",THRILLERMAX HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698481.ts
 #EXTINF:-1 tvg-id="tbs.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/VNxWGb8f/TBS-2015.jpg",TBS HD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/677201.ts
 #EXTINF:-1 tvg-id="tbs.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/VNxWGb8f/TBS_2015.jpg",TBS HD US
@@ -717,20 +641,22 @@ http://mytv.fun:8080/live/kathy2/8o3og0c65s/684764.ts
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/677101.ts
 #EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/NMTJBr5n/CBS.jpg",CBS FHD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/698052.ts
-#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/MGftmjbG/NBC.jpg",NBC FHD VIP US
+#EXTINF:-1 tvg-id="nbcwfla.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/MGftmjbG/NBC.jpg",NBC FHD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/698053.ts
 #EXTINF:-1 tvg-id="abcwabc.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/Z5wKxWYX/ABC.jpg",ABC HD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/698054.ts
 #EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/VvhWtfrt/FOX.jpg",FOX HD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/698055.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/L8ZqMJrG/CW.png",CW HD VIP US
-http://mytv.fun:8080/live/kathy2/8o3og0c65s/698430.ts
-#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="" group-title="UNITED STATES" tvg-logo="",USA NETWORK FHD VIP US
+#EXTINF:-1 tvg-id="cw44wtog.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/L8ZqMJrG/CW.png",CW HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698439.ts
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/0QGpyk6P/USA-Network-2005.jpg",USA NETWORK FHD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/4901.ts
 #EXTINF:-1 tvg-id="vh1west.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/66nYSKYW/VH1-2013.png",VH1 HD VIP US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/684714.ts
 #EXTINF:-1 tvg-id="comedycentral.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/jdXHySd1/Comedy-Central-2018.jpg",COMEDY CENTRAL HD US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/4882.ts
+#EXTINF:-1 tvg-id="newsnation.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/FK3SwQfD/News-Nation.jpg",NEWSNATION FHD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698487.ts
 #EXTINF:-1 tvg-id="syfy.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/pLSnBhNs/Syfy.jpg",SYFY HD US
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/648340.ts
 #EXTINF:-1 tvg-id="eentertainment.us" tvg-name="" group-title="UNITED STATES" tvg-logo="https://i.postimg.cc/c4nqJPx6/E-entertainment.jpg",E! HD VIP US
@@ -1349,6 +1275,130 @@ http://mytv.fun:8080/live/kathy2/8o3og0c65s/692626.ts
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/692627.ts
 #EXTINF:-1 tvg-id="boxhits.uk" tvg-name="" group-title="UNITED KINGDOM" tvg-logo="https://i.postimg.cc/25M64ydB/4-Music-2018.jpg",4MUSIC VIP UK
 http://mytv.fun:8080/live/kathy2/8o3og0c65s/692628.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/RVM5TL5R/USA-Flag.png",✽✽✽✽ US LOCALS ✽✽✽✽
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/48232.ts
+#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/fW8HpJHc/WCBS-2-2016.png",CBS2 [NY NEW YORK] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/47953.ts
+#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/qM1Yh4B1/WNBC.png",NBC4 [NY NEW YORK] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/47983.ts
+#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/4NNnk3YD/WABC.png",ABC7 [NY NEW YORK] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/47950.ts
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/hjPL10RH/WNYW.jpg",FOX5 [NY NEW YORK] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/47949.ts
+#EXTINF:-1 tvg-id="nbc2wgrz.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/hjDFRMJy/WGRZ-2011.png",NBC2 [NY BUFFALO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/47938.ts
+#EXTINF:-1 tvg-id="fox29wutv.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/fRxvPkHp/WUTV.png",FOX29 [NY BUFFALO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/47937.ts
+#EXTINF:-1 tvg-id="cbs9wusa.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/cL82Sbdh/WUSA-9-2018.jpg",CBS9 [DC WASHINGTON] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698135.ts
+#EXTINF:-1 tvg-id="nbcwrc.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/fRML1xVg/WRC.png",NBC4 [DC WASHINGTON] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698136.ts
+#EXTINF:-1 tvg-id="foxwttg.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/9fXbL2G8/WTTG.jpg",FOX5 [DC WASHINGTON] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698138.ts
+#EXTINF:-1 tvg-id="kcal.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/DZJqNwmg/KCAL-2016.png",CBS9 [CA LOS ANGELES] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698139.ts
+#EXTINF:-1 tvg-id="nbc4knbc.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/vBVVz2S2/KNBC_2013.png",NBC4 [CA LOS ANGELES] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698140.ts
+#EXTINF:-1 tvg-id="abc7kabctv.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/bwW2WmtH/KABC.png",ABC7 [CA LOS ANGELES] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698141.ts
+#EXTINF:-1 tvg-id="fox11kttv.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/Z5HFBQ1r/KTTV.jpg",FOX11 [CA LOS ANGELES] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698142.ts
+#EXTINF:-1 tvg-id="cbs5kpix.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/Qtkdy9W1/KPIX.png",CBS5 [CA SAN FRANCISCO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698143.ts
+#EXTINF:-1 tvg-id="fox2ktvu.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/dtZVTVQR/KTVU2020.jpg",FOX2 [CA SAN FRANCISCO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698144.ts
+#EXTINF:-1 tvg-id="cbs8kfmb.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/VkKn8DSF/KFMB-TV.png",CBS8 [CA SAN DIEGO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698137.ts
+#EXTINF:-1 tvg-id="foxkswb.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/wTF7hTS7/KSWB_1.png",FOX5 [CA SAN DIEGO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698145.ts
+#EXTINF:-1 tvg-id="cbs13kovr.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/k4hgVCgG/KOVR.png",CBS13 [CA SACRAMENTO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698146.ts
+#EXTINF:-1 tvg-id="foxktxl.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/xdX2Bskv/KTXL_2019.png",FOX40 [CA SACRAMENTO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698147.ts
+#EXTINF:-1 tvg-id="abc30kfsn.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/XNP9mG0Z/KFSN.png",ABC30 [CA FRESNO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698148.ts
+#EXTINF:-1 tvg-id="foxkriv.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/fb4Z2rcH/KRIV.jpg",FOX26 [TX HOUSTON] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698169.ts
+#EXTINF:-1 tvg-id="cbs11khou.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/c4NHqLrJ/KHOU.png",CBS11 [TX HOUSTON] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698170.ts
+#EXTINF:-1 tvg-id="nbckprc.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/mk3TZ7tg/KPRC.png",NBC2 [CA HOUSTON] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698168.ts
+#EXTINF:-1 tvg-id="abc13ktrktv.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/gc1MZbmB/KTRK.png",ABC13 [TX HOUSTON] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698171.ts
+#EXTINF:-1 tvg-id="cbs5kens.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/t4P2Rdzn/KENS.png",CBS5 [TX SAN ANTONIO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698172.ts
+#EXTINF:-1 tvg-id="abcksat.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/DzRjP2PH/KSAT.png",ABC12 [TX SAN ANTONIO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698149.ts
+#EXTINF:-1 tvg-id="cbs11ktvt.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/Dw60pZ3k/KTVT.png",CBS11 [TX DALLAS] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698176.ts
+#EXTINF:-1 tvg-id="nbckxas.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/K8HQTmpF/KXAS.png",NBC5 [TX DALLAS] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698174.ts
+#EXTINF:-1 tvg-id="abc8wfaa.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/yNxnZyLY/WFAA.jpg",ABC8 [TX DALLAS] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698175.ts
+#EXTINF:-1 tvg-id="foxkdfw.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/j2bMjvg7/KDFW.jpg",FOX4 [TX DALLAS] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698173.ts
+#EXTINF:-1 tvg-id="cbs4wfor.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/W36PPf6C/WFOR-CBS-Miami.png",CBS4 [FL MIAMI] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698178.ts
+#EXTINF:-1 tvg-id="nbc6wtvj.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/ZKmsfcL4/WTVJ.png",NBC6 [FL MIAMI] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698177.ts
+#EXTINF:-1 tvg-id="fox7wsvn.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/Dyz8C9h6/WSVN.png",FOX7 [FL MIAMI] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698181.ts
+#EXTINF:-1 tvg-id="cbs6wkmg.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/9MzR70Z2/WKMG.png",CBS6 [FL ORLANDO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698179.ts
+#EXTINF:-1 tvg-id="abcwftv.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/Hs41yxRP/WFTV.png",ABC9 [FL ORLANDO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698182.ts
+#EXTINF:-1 tvg-id="foxwofl.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/PrXyFzWr/WOFL_3.jpg",FOX35 [FL ORLANDO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698180.ts
+#EXTINF:-1 tvg-id="foxwtvt.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/85zV9d8c/WTVT.png",FOX13 [FL TAMPA] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698183.ts
+#EXTINF:-1 tvg-id="cbs2wbbm.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/fTTQYZsz/WBBM.png",CBS2 [IL CHICAGO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698186.ts
+#EXTINF:-1 tvg-id="nbc5wmaq.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/W1xpnpLj/WMAQ.png",NBC5 [IL CHICAGO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698207.ts
+#EXTINF:-1 tvg-id="abc7wlstv.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/vB5Y9Jgn/WLS-TV.png",ABC7 [IL CHICAGO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698184.ts
+#EXTINF:-1 tvg-id="fox32wfld.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/MHYXPC05/WFLD.jpg",FOX32 [IL CHICAGO] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698185.ts
+#EXTINF:-1 tvg-id="cbs3kyw.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/8csfQ5tc/KYW_1.png",CBS3 [PA PHILADELPHIA] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698187.ts
+#EXTINF:-1 tvg-id="cbs5kpho.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/6QnQDPRk/KPHO_logo.png",CBS5 [AZ PHOENIX] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698188.ts
+#EXTINF:-1 tvg-id="abcknvx.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/mZXDNsDB/KNXV_TV.jpg",ABC15 [AZ PHOENIX] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698189.ts
+#EXTINF:-1 tvg-id="fox10ksaz.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/1t7bMmXs/KSAZ.jpg",FOX10 [AZ PHOENIX] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698190.ts
+#EXTINF:-1 tvg-id="cbs4wwl.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/L59F5Y2M/4WWL.png",CBS4 [LA NEW ORLEANS] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698191.ts
+#EXTINF:-1 tvg-id="nbcwdsu.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/CL29T6B0/WDSU.jpg",NBC6 [LA NEW ORLEANS] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698193.ts
+#EXTINF:-1 tvg-id="foxwvue.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/X7Cd4z2G/WVUE.jpg",FOX8 [LA NEW ORLEANS] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698192.ts
+#EXTINF:-1 tvg-id="cbs46wgcl.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/7hy77DVZ/WGCL.png",CBS46 [GA ATLANTA] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698194.ts
+#EXTINF:-1 tvg-id="nbcwxia.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/6qKcC9GB/WXIA.png",NBC11 [GA ATLANTA] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698196.ts
+#EXTINF:-1 tvg-id="abcwsb.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/LsfjDcS5/WSB.png",ABC [GA ATLANTA] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698197.ts
+#EXTINF:-1 tvg-id="foxwaga.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/NjW0LDbg/WAGA.jpg",FOX5 [GA ATLANTA] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698195.ts
+#EXTINF:-1 tvg-id="cbs4kmov.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/k4GrP6Rk/KMOV_2019_Logo.png",CBS4 [MO ST. LOUIS] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698200.ts
+#EXTINF:-1 tvg-id="nbc5ksdk.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/1zRCBLvH/KSDK.png",NBC5 [MO ST. LOUIS] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698198.ts
+#EXTINF:-1 tvg-id="abc30kdnl.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/fbWYtdK2/KDNL.jpg",ABC30 [MO ST. LOUIS] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698201.ts
+#EXTINF:-1 tvg-id="fox2ktvi.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/tgLqWt59/KTVI.jpg",FOX2 [MO ST. LOUIS] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698202.ts
+#EXTINF:-1 tvg-id="cbs4wbz.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/0QJbdxvm/WBZ-2011-1.png",CBS4 [MA BOSTON] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698203.ts
+#EXTINF:-1 tvg-id="abcwcvb.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/XYRsCkqR/WCVB.png",ABC5 [MA BOSTON] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698199.ts
+#EXTINF:-1 tvg-id="fox25wfxt.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/Bvx3BxBc/WFXT.png",FOX25 [MA BOSTON] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698204.ts
+#EXTINF:-1 tvg-id="fox13kstu.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/6q5VL481/KSTU.png",FOX13 [UT SALT LAKE CITY] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698205.ts
+#EXTINF:-1 tvg-id="nbckare.us" tvg-name="" group-title="UNITED STATES LOCAL" tvg-logo="https://i.postimg.cc/Nj5cCNhQ/KARE-Logo2.png",NBC11 [MN MINNEAPOLIS] HD VIP US
+http://mytv.fun:8080/live/kathy2/8o3og0c65s/698206.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD ANIMATION" tvg-logo="http://mytv.fun:8080/images/yP3h0Pu8htyb9450mWJ9Vu1rU_small.jpg",EN | AN | BATMAN VS. TEENAGE MUTANT NINJA TURTLES 2019
 http://mytv.fun:8080/movie/kathy2/8o3og0c65s/661649.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD ANIMATION" tvg-logo="http://mytv.fun:8080/images/xcl4vYTqqzwn3ihUpjCQz0jqhV3_small.jpg",EN | AN | THE QUEENS CORGI 2019
