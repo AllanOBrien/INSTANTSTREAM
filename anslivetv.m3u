@@ -96,7 +96,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:POSITIV.smil/playli
 #EXTINF:-1 group-title="RELIGION" tvg-id="tbnenlace.us" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/11/Trinity-Broadcasting-Network.png",TBN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="AndPrive.in" tvg-logo="https://static.epg.best/in/AndPrive.in.png",&Privé HD
-http://qualityoverquantity.site:8880/play/live.php?mac=00:1a:79:b0:e5:9b&stream=862618&extension=m3u8
+http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/155746.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="AandE.us" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:A&E.smil/playlist.m3u8
 #EXTINF:-1 group-title="US | ENTERTAINMENT" tvg-id="ActionMAX.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/actionmax.png",Action Max
