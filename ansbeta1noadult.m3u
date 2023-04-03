@@ -2781,7 +2781,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/58452.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/58453.ts
 #EXTINF:-1 tvg-id="DisneyChannel.br" tvg-name="" group-title="BRAZILIAN TV" tvg-logo="http://icons.tw:8080/images/Brazil.png",BR : DISNEY CHANNEL
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/58454.ts
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="" group-title="BRAZILIAN TV" tvg-logo="http://icons.tw:8080/images/Brazil.png",BR : ESPN
+#EXTINF:-1 tvg-id="espn.br" tvg-name="" group-title="BRAZILIAN TV" tvg-logo="http://icons.tw:8080/images/Brazil.png",BR : ESPN
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/58458.ts
 #EXTINF:-1 tvg-id="ESPN2.br" tvg-name="" group-title="BRAZILIAN TV" tvg-logo="http://icons.tw:8080/images/Brazil.png",BR : ESPN 2
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/58459.ts
@@ -3069,7 +3069,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/160803.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/53633.ts
 #EXTINF:-1 tvg-id="CityTv.ca" tvg-name="" group-title="CANADIAN TV" tvg-logo="http://icons.tw:8080/images/435c7b0d7992cc61f310c1b3e3636126.png",CA : CITY TV TORONTO
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/53634.ts
-#EXTINF:-1 tvg-id="CMT.ca" tvg-name="" group-title="CANADIAN TV" tvg-logo="http://icons.tw:8080/images/797a8b0b28b4e4f88cf253fcbe269333.png",CA : CMT
+#EXTINF:-1 tvg-id="cmt.ca" tvg-name="" group-title="CANADIAN TV" tvg-logo="http://icons.tw:8080/images/797a8b0b28b4e4f88cf253fcbe269333.png",CA : CMT
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/53635.ts
 #EXTINF:-1 tvg-id="CNBC.ca" tvg-name="" group-title="NEWS NETWORKS" tvg-logo="http://icons.tw:8080/images/a667882c74256a8682ed914d584a1cd3.png",CA : CNBC CANADA
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/53636.ts
@@ -4533,7 +4533,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235954.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235955.ts
 #EXTINF:-1 tvg-id="AXN.es" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : AXN
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235956.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : AZ CORAZON
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : AZ CORAZON
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235957.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : AZ MUNDO
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147590.ts
@@ -4543,7 +4543,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235958.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147591.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : BOOMERANG
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147592.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : CABLE NOTICIAS
+#EXTINF:-1 tvg-id="cablenoticias.co" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : CABLE NOTICIAS
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147593.ts
 #EXTINF:-1 tvg-id="Calle.13.es" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : CALLE 13
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235959.ts
@@ -4551,13 +4551,13 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235959.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147595.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : CANAL RCN
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147596.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : CANAL UNO
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : CANAL UNO
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147597.ts
 #EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : CARTOON NETWORK
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147599.ts
 #EXTINF:-1 tvg-id="CGTN.Español.es" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : CGTN
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147600.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : CINE CANAL
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : CINE CANAL
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147601.ts
 #EXTINF:-1 tvg-id="telecineaction.br" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : CINE LATINO
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147602.ts
@@ -4565,7 +4565,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147602.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147603.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : CINEMAX
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147604.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : CITY TV
+#EXTINF:-1 tvg-id="citytv.co" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : CITY TV
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147605.ts
 #EXTINF:-1 tvg-id="CNN.Int.es" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : CNN EN ESPANOL
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147606.ts
@@ -4609,7 +4609,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235973.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147614.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : E! ENTERTAINMENT
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147615.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : EL GOURMET
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : EL GOURMET
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235974.ts
 #EXTINF:-1 tvg-id="Energy.es" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : ENERGY
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235975.ts
@@ -4631,23 +4631,23 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235977.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235978.ts
 #EXTINF:-1 tvg-id="foxsports2.br" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : FOX SPORTS 2
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235979.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : FOX SPORTS 3
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : FOX SPORTS 3
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235980.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : GALAVISION TV
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147625.ts
 #EXTINF:-1 tvg-id="El.Garage.TV.es" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : GARAGE TV
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147626.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : GLITZ
+#EXTINF:-1 tvg-id="glitz.mx" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : GLITZ
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235981.ts
 #EXTINF:-1 tvg-id="GOL.es" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : GOL TV
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235982.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : GOLDEN
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : GOLDEN
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235983.ts
-#EXTINF:-1 tvg-id="Movistar.Golf.es" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : GOLF CHANNEL
+#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : GOLF CHANNEL
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235984.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : HBO
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147628.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : HBO 2
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : HBO 2
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235985.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : HBO FAMILY ESTE
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147629.ts
@@ -4715,7 +4715,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147650.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147651.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : SHOWTIME BEYOND
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147652.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : SONY
+#EXTINF:-1 tvg-id="sony.br" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : SONY
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/236001.ts
 #EXTINF:-1 tvg-id="space.br" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : SPACE
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/236002.ts
@@ -4745,11 +4745,11 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/236005.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147667.ts
 #EXTINF:-1 tvg-id="TCM.es" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : TCM
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/236006.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : TELE HIT
+#EXTINF:-1 tvg-id="telehit.mx" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : TELE HIT
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147670.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : TELEMUNDO
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : TELEMUNDO
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/236007.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : TL NOVELAS
+#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : TL NOVELAS
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/236008.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : TLC
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147672.ts
@@ -4759,7 +4759,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147673.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/236009.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : TOONCAST
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147674.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : TRUTV
+#EXTINF:-1 tvg-id="trutv.mx" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : TRUTV
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/236010.ts
 #EXTINF:-1 tvg-id="Canal.Fútbol.Replay.es" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : TUDN ZONA FUTBOL
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147675.ts
@@ -4777,7 +4777,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147679.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/236012.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : WAPA
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147680.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : WIN SPORTS
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : WIN SPORTS
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147681.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Spain.png",ES : ZOOM
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147682.ts
@@ -4787,11 +4787,11 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/219648.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/219645.ts
 #EXTINF:-1 tvg-id="ESPN+ 002" tvg-name="" group-title="ESPN +" tvg-logo="http://icons.tw:8080/images/7926caefb9ac2827a994b983a0c8e1d6.png",EVENT 002-
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/227312.ts
-#EXTINF:-1 tvg-id="ESPN+ 003" tvg-name="" group-title="ESPN +" tvg-logo="http://icons.tw:8080/images/7926caefb9ac2827a994b983a0c8e1d6.png",EVENT 003-
+#EXTINF:-1 tvg-id="espn+ 003" tvg-name="" group-title="ESPN +" tvg-logo="http://icons.tw:8080/images/7926caefb9ac2827a994b983a0c8e1d6.png",EVENT 003-
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/219646.ts
 #EXTINF:-1 tvg-id="ESPN+ 004" tvg-name="" group-title="ESPN +" tvg-logo="http://icons.tw:8080/images/7926caefb9ac2827a994b983a0c8e1d6.png",EVENT 004 -
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/219647.ts
-#EXTINF:-1 tvg-id="ESPN+ 005" tvg-name="" group-title="ESPN +" tvg-logo="http://icons.tw:8080/images/7926caefb9ac2827a994b983a0c8e1d6.png",EVENT 005-
+#EXTINF:-1 tvg-id="espn+ 005" tvg-name="" group-title="ESPN +" tvg-logo="http://icons.tw:8080/images/7926caefb9ac2827a994b983a0c8e1d6.png",EVENT 005-
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/219649.ts
 #EXTINF:-1 tvg-id="ESPN+ 006" tvg-name="" group-title="ESPN +" tvg-logo="http://icons.tw:8080/images/7926caefb9ac2827a994b983a0c8e1d6.png",EVENT 006-
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/219650.ts
@@ -6733,7 +6733,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/69309.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/69310.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN TV" tvg-logo="http://icons.tw:8080/images/India.png",IN : RAJ TV
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/69311.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN TV" tvg-logo="http://icons.tw:8080/images/India.png",IN : SONY HD
+#EXTINF:-1 tvg-id="sony.br" tvg-name="" group-title="INDIAN TV" tvg-logo="http://icons.tw:8080/images/India.png",IN : SONY HD
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/69314.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="INDIAN TV" tvg-logo="http://icons.tw:8080/images/India.png",IN : SONY MAX HD
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/69315.ts
@@ -6983,7 +6983,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/61995.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/61996.ts
 #EXTINF:-1 tvg-id="la5.it" tvg-name="" group-title="ITALIAN TV" tvg-logo="http://icons.tw:8080/images/Italy.png",IT : LA5
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/61997.ts
-#EXTINF:-1 tvg-id="La7.it" tvg-name="" group-title="ITALIAN TV" tvg-logo="http://icons.tw:8080/images/Italy.png",IT : LA7
+#EXTINF:-1 tvg-id="la7.it" tvg-name="" group-title="ITALIAN TV" tvg-logo="http://icons.tw:8080/images/Italy.png",IT : LA7
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/61998.ts
 #EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="" group-title="ITALIAN TV" tvg-logo="http://icons.tw:8080/images/Italy.png",IT : MEDIASET EXTRA
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/61999.ts
@@ -7557,7 +7557,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/56562.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/56563.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="LATINO TV" tvg-logo="http://icons.tw:8080/images/72133b54ada6b97de3ddfd20790cbed7.png",LATINO : UNIVISION EAST
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/56564.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="LATINO TV" tvg-logo="",LATINO : UNIVISION PR
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="LATINO TV" tvg-logo="http://icons.tw:8080/images/72133b54ada6b97de3ddfd20790cbed7.png",LATINO : UNIVISION PR
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/193924.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="LATINO TV" tvg-logo="http://icons.tw:8080/images/d85c582950b9687ed6d094411f8410d3.png",LATINO : UNIVISION TLNOVELAS
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/56566.ts
@@ -8139,64 +8139,6 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/199990.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/199991.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="USA MLB EXTRA INNINGS" tvg-logo="http://icons.tw:8080/images/0c550f188737ca1c55e023148c89cc64.png",MLB : EXTRA INNINGS 20
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/199992.ts
-#EXTINF:-1 tvg-id="AtlantaUnited.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/d43171d8562adf3f1458fadf03ae2b91.png",MLS : ATLANTA UNITED
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245373.ts
-#EXTINF:-1 tvg-id="AustinFC.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/1565c4c247d7ddedd3b860619cc7da52.png",MLS : AUSTIN FC
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245374.ts
-#EXTINF:-1 tvg-id="CFMontreal.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/8c6130bb6a62b0d8552185f2894ce0b7.png",MLS : CF MONTREAL
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245375.ts
-#EXTINF:-1 tvg-id="CharlotteFC.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/2dabe52f9a788b781a5331c056c6c07a.png",MLS : CHARLOTTE FC
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245376.ts
-#EXTINF:-1 tvg-id="ChicagoFireFC.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/1b1cd3045722039ed8a40a5754dbfcd2.png",MLS : CHICAGO FIRE FC
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245377.ts
-#EXTINF:-1 tvg-id="ColoradoRapids.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/799365a9b92e770665dcd6d4ab348413.png",MLS : COLORADO RAPIDS
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245378.ts
-#EXTINF:-1 tvg-id="ColumbusCrew.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/5bca4f17c45dc838a18f4bff31a86d2f.png",MLS : COLUMBUS CREW
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245379.ts
-#EXTINF:-1 tvg-id="DCUnited.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/1d4e551ef3af2a24ea4df7745aca8785.png",MLS : D.C. UNITED
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245380.ts
-#EXTINF:-1 tvg-id="FCCincinnati.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/2b2ee6285ae51e48ed76fcfdf5ac40e6.png",MLS : FC CINCINNATI
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245381.ts
-#EXTINF:-1 tvg-id="FCDallas.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/3a45db3bfffcbb4ba3ec0a45f438928d.png",MLS : FC DALLAS
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245382.ts
-#EXTINF:-1 tvg-id="HoustonDynamoFC.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/6735109c8b6c0ac1d45dbcebd59197a5.png",MLS : HOUSTON DYNAMO
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245383.ts
-#EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/e3c6787be8d0f6877932b695b5e2f296.png",MLS : INTER MIAMI CF
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245384.ts
-#EXTINF:-1 tvg-id="LAGalaxy.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/19724d194976364961229a3496a0728b.png",MLS : LA GALAXY
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245385.ts
-#EXTINF:-1 tvg-id="LosAngelesFootballClub.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/59ef2bd057e8373384c8ed9a5933821d.png",MLS : LOS ANGELES FOOTBALL CLUB
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245386.ts
-#EXTINF:-1 tvg-id="MinnesotaUnited.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/025341a40b1e96a520d33c45e0b82487.png",MLS : MINNESOTA UNITED
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245387.ts
-#EXTINF:-1 tvg-id="NashvilleSC.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/f2019c7757a967c70382a22322e59dfe.png",MLS : NASHVILLE SC
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245388.ts
-#EXTINF:-1 tvg-id="NewEnglandRevolution.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/7d86e0f03f2be3649eef7b6025fa62e2.png",MLS : NEW ENGLAND REVOLUTION
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245389.ts
-#EXTINF:-1 tvg-id="NewYorkCityFC.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/eab5b806eb91ad3d93ba4e41348c18b0.png",MLS : NEW YORK CITY FC
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245390.ts
-#EXTINF:-1 tvg-id="NewYorkRedBulls.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/4a108114d1e79c50f1841dc35b6fb6b8.png",MLS : NEW YORK RED BULLS
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245391.ts
-#EXTINF:-1 tvg-id="OrlandoCity.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/4f6f85cec2688e4b8ad286ad460004e2.png",MLS : ORLANDO CITY
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245392.ts
-#EXTINF:-1 tvg-id="PhiladelphiaUnion.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/3905b625ed8a96d7729b2c60e6635b67.png",MLS : PHILADELPHIA UNION
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245393.ts
-#EXTINF:-1 tvg-id="PortlandTimbers.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/eb61121b09d0d81157b149fa29961eca.png",MLS : PORTLAND TIMBERS
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245394.ts
-#EXTINF:-1 tvg-id="RealSaltLake.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/a69250678c876ec689c422b10028ab0e.png",MLS : REAL SALT LAKE
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245395.ts
-#EXTINF:-1 tvg-id="SanJoseEarthquakes.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/8495bbc52e7308198c51ed703868b687.png",MLS : SAN JOSE EARTHQUAKES
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245396.ts
-#EXTINF:-1 tvg-id="SeattleSoundersFC.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/c21090f029f148df8bb580d1bfc37a24.png",MLS : SEATTLE SOUNDERS FC
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245397.ts
-#EXTINF:-1 tvg-id="SportingKansasCity.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/4024c353f2730828c247d2cfa9e5c035.png",MLS : SPORTING KANSAS CITY
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245398.ts
-#EXTINF:-1 tvg-id="StLouisCITYSC.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/2e152351ee13263c2d4f0fc45727ab95.png",MLS : ST LOUIS CITY SC
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245399.ts
-#EXTINF:-1 tvg-id="TorontoFC.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/986cf0f671b66eea41f76b98b64aad06.png",MLS : TORONTO FC
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245400.ts
-#EXTINF:-1 tvg-id="VancouverWhitecapsFC.mls" tvg-name="" group-title="USA MAJOR LEAGUE SOCCER" tvg-logo="http://icons.tw:8080/images/322e44e8268d27c3d47896b636dd47ad.png",MLS : VANCOUVER WHITECAPS FC
-http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/245401.ts
 #EXTINF:-1 tvg-id="MOLA01.rtv" tvg-name="" group-title="MOLA SPORT" tvg-logo="http://icons.tw:8080/images/e09d956108c16037d38467560765a179.png",MOLA : EVENT 01
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/228242.ts
 #EXTINF:-1 tvg-id="MOLA02.rtv" tvg-name="" group-title="MOLA SPORT" tvg-logo="http://icons.tw:8080/images/e09d956108c16037d38467560765a179.png",MOLA : EVENT 02
@@ -8323,7 +8265,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/56960.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147689.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Mexico.png",MX : CANAL 10 CANCÚN
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147691.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Mexico.png",MX : CANAL 26
+#EXTINF:-1 tvg-id="canal26.ar" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Mexico.png",MX : CANAL 26
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147692.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Mexico.png",MX : CONECTA TV
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147695.ts
@@ -8339,7 +8281,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235946.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235947.ts
 #EXTINF:-1 tvg-id="foxsports2.br" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Mexico.png",MX : FOX SPORTS 2
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235948.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Mexico.png",MX : FOX SPORTS 3
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Mexico.png",MX : FOX SPORTS 3
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/235949.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPANISH/MEXICAN TV" tvg-logo="http://icons.tw:8080/images/Mexico.png",MX : FRANCE 24 ESPAÑOL
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/147699.ts
@@ -8861,7 +8803,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/230063.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/230095.ts
 #EXTINF:-1 tvg-id="PBSKUED.us" tvg-name="" group-title="USA PBS LOCALS" tvg-logo="http://icons.tw:8080/images/1a7f62ae6a0e97a6c65dd535bd88cbef.png",PBS (KUED - SALT LAKE CITY)
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/230074.ts
-#EXTINF:-1 tvg-id="PBSKUON.us" tvg-name="" group-title="USA PBS LOCALS" tvg-logo="http://icons.tw:8080/images/1a7f62ae6a0e97a6c65dd535bd88cbef.png",PBS (KUON - LINCOLN)
+#EXTINF:-1 tvg-id="kcet.los.angeles,.ca.us" tvg-name="" group-title="USA PBS LOCALS" tvg-logo="http://icons.tw:8080/images/1a7f62ae6a0e97a6c65dd535bd88cbef.png",PBS (KUON - LINCOLN)
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/230075.ts
 #EXTINF:-1 tvg-id="PBSKUSD.us" tvg-name="" group-title="USA PBS LOCALS" tvg-logo="http://icons.tw:8080/images/1a7f62ae6a0e97a6c65dd535bd88cbef.png",PBS (KUSD - SOUTH DAKOTA)
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/230123.ts
@@ -8945,7 +8887,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/230138.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/230088.ts
 #EXTINF:-1 tvg-id="PBSWKAR.us" tvg-name="" group-title="USA PBS LOCALS" tvg-logo="http://icons.tw:8080/images/1a7f62ae6a0e97a6c65dd535bd88cbef.png",PBS (WKAR - EAST LANSING)
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/230174.ts
-#EXTINF:-1 tvg-id="PBSWKNO.us" tvg-name="" group-title="USA PBS LOCALS" tvg-logo="http://icons.tw:8080/images/1a7f62ae6a0e97a6c65dd535bd88cbef.png",PBS (WKNO - MEMPHIS)
+#EXTINF:-1 tvg-id="kcet.los.angeles,.ca.us" tvg-name="" group-title="USA PBS LOCALS" tvg-logo="http://icons.tw:8080/images/1a7f62ae6a0e97a6c65dd535bd88cbef.png",PBS (WKNO - MEMPHIS)
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/230059.ts
 #EXTINF:-1 tvg-id="PBSWLIW.us" tvg-name="" group-title="USA PBS LOCALS" tvg-logo="http://icons.tw:8080/images/1a7f62ae6a0e97a6c65dd535bd88cbef.png",PBS (WLIW - GARDEN CITY)
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/230159.ts
@@ -9141,7 +9083,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/69277.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/69278.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="PAKISTANI TV" tvg-logo="http://icons.tw:8080/images/Pakistan.png",PK : HUM SITARAY
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/69280.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="PAKISTANI TV" tvg-logo="http://icons.tw:8080/images/Pakistan.png",PK : HUM TV HD
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="" group-title="PAKISTANI TV" tvg-logo="http://icons.tw:8080/images/Pakistan.png",PK : HUM TV HD
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/69281.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="PAKISTANI TV" tvg-logo="http://icons.tw:8080/images/Pakistan.png",PK : NEO NEWS
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/69283.ts
@@ -9263,11 +9205,11 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/61884.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/61885.ts
 #EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="" group-title="POLISH TV" tvg-logo="http://icons.tw:8080/images/Poland.png",PL : FOX COMEDY
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/61886.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="POLISH TV" tvg-logo="http://icons.tw:8080/images/Poland.png",PL : GOLF CHANNEL
+#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="" group-title="POLISH TV" tvg-logo="http://icons.tw:8080/images/Poland.png",PL : GOLF CHANNEL
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/61888.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="POLISH TV" tvg-logo="http://icons.tw:8080/images/Poland.png",PL : HBO
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/61889.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="POLISH TV" tvg-logo="http://icons.tw:8080/images/Poland.png",PL : HBO 2
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="" group-title="POLISH TV" tvg-logo="http://icons.tw:8080/images/Poland.png",PL : HBO 2
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/61890.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="POLISH TV" tvg-logo="http://icons.tw:8080/images/Poland.png",PL : HBO 3
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/61891.ts
@@ -13035,7 +12977,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/162680.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/162681.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TURKISH TV" tvg-logo="http://icons.tw:8080/images/221cdfb73049678e244380b45872cbb2.png",TU : BURSA TV
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/162684.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TURKISH TV" tvg-logo="http://icons.tw:8080/images/221cdfb73049678e244380b45872cbb2.png",TU : CAN TV
+#EXTINF:-1 tvg-id="ntvcjon.ca" tvg-name="" group-title="TURKISH TV" tvg-logo="http://icons.tw:8080/images/221cdfb73049678e244380b45872cbb2.png",TU : CAN TV
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/162685.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TURKISH TV" tvg-logo="http://icons.tw:8080/images/221cdfb73049678e244380b45872cbb2.png",TU : KANAL 3
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/162688.ts
@@ -14537,7 +14479,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/53437.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/54899.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="" group-title="USA FULL HD" tvg-logo="http://icons.tw:8080/images/45e838eba9fd9f28718e732b683d3f6f.png",US : DISCOVERY CHANNEL FHD 1080
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/53435.ts
-#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="" group-title="USA TV" tvg-logo="http://icons.tw:8080/images/93e75712a34dd337ec1712d6836ea766.png",US : DISCOVERY FAMILY
+#EXTINF:-1 tvg-id="discoveryfamilychannel.us" tvg-name="" group-title="USA TV" tvg-logo="http://icons.tw:8080/images/93e75712a34dd337ec1712d6836ea766.png",US : DISCOVERY FAMILY
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/54962.ts
 #EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="" group-title="USA FULL HD" tvg-logo="http://icons.tw:8080/images/2b9bdbc799839cd2763f8beaeac6c1a4.png",US : DISCOVERY FAMILY FHD 1080
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/53408.ts
@@ -15207,7 +15149,7 @@ http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/56597.ts
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/56598.ts
 #EXTINF:-1 tvg-id="N12News12LongIsland.us" tvg-name="" group-title="NEWS NETWORKS" tvg-logo="http://icons.tw:8080/images/3cdb56c38711e1f7b7b36bb551f31be2.png",US : NEWS12 LONG ISLAND
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/56599.ts
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEWS NETWORKS" tvg-logo="http://icons.tw:8080/images/3cdb56c38711e1f7b7b36bb551f31be2.png",US : NEWS12 NEW JERSEY
+#EXTINF:-1 tvg-id="n12news12newjersey.us" tvg-name="" group-title="NEWS NETWORKS" tvg-logo="http://icons.tw:8080/images/3cdb56c38711e1f7b7b36bb551f31be2.png",US : NEWS12 NEW JERSEY
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/56600.ts
 #EXTINF:-1 tvg-id="N12News12Bronx.us" tvg-name="" group-title="NEWS NETWORKS" tvg-logo="http://icons.tw:8080/images/3cdb56c38711e1f7b7b36bb551f31be2.png",US : NEWS12 THE BRONX
 http://wayforward.xyz:25461/live/ASistrunk14/ueLdZWa46g84/56601.ts
@@ -17291,7 +17233,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47819.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/234354.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ACTION" tvg-logo="http://icons.tw:8080/images/c6bb4fd4cd3575c4b6eebbd6659e3bc9.jpg",A MAN APART (2003)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/214619.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="https://image.tmdb.org/t/p/w400/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",A MAN CALLED OTTO (2022)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="https://image.tmdb.org/t/p/w400/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",A MAN CALLED OTTO (2022)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/262781.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="FAMILY" tvg-logo="http://icons.tw:8080/images/e0addcc05d4900325087fdf85e800a9c.jpg",A MERMAID'S TALE (2017)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47857.mp4
@@ -17561,11 +17503,11 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/203438.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47732.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="FAMILY" tvg-logo="http://icons.tw:8080/images/d9977dfbd6f68f788c18f04f1557aa05.jpg",ADVENTURES OF RUFUS: THE FANTASTIC PET (2021)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/3592f1fa803cad2f739bc62a9beeeb62.jpg",AEW DARK 21ST MARCH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/3592f1fa803cad2f739bc62a9beeeb62.jpg",AEW DARK 28TH MARCH
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/56651.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/17e777268e27fa8d3e2e2e8dabf86d6a.jpg",AEW DYNAMITE 22ND MARCH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/17e777268e27fa8d3e2e2e8dabf86d6a.jpg",AEW DYNAMITE 29TH MARCH
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/56652.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/4453d1cd7243a81d2b1e44a2bd2b7b45.jpg",AEW RAMPAGE 25TH MARCH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/4453d1cd7243a81d2b1e44a2bd2b7b45.jpg",AEW RAMPAGE 31ST MARCH
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/142777.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/4be3f6f57219a86059338820e9530cda.jpg",AFFAIRS OF STATE (2018)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47736.mp4
@@ -17673,7 +17615,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47775.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47776.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="FAMILY" tvg-logo="http://icons.tw:8080/images/8537592a161a582b3c2ffc8c772c0101.jpg",ALICE THROUGH THE LOOKING GLASS (2016)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/48c30e04966cd9506c541e6481daaff6.jpg",ALICE, DARLING (2022)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="THRILLER" tvg-logo="http://icons.tw:8080/images/48c30e04966cd9506c541e6481daaff6.jpg",ALICE, DARLING (2022)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/253791.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SCI-FI" tvg-logo="http://icons.tw:8080/images/b488f960d12383a4a9ace0d4bce773cc.jpg",ALIEN (1979)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47778.mp4
@@ -18025,6 +17967,8 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47920.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/825.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="4K MOVIES" tvg-logo="http://icons.tw:8080/images/2ead5c129582d78d024442ba0c4e9d03.jpg",ANT-MAN AND THE WASP (2018) 4K
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/1142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="https://image.tmdb.org/t/p/w400/gfsOfr4y6DeZatPqx2YciFwDtx0.jpg",ANTHONY JOSHUA VS. JERMAINE FRANKLIN
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265608.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOCUMENTARY" tvg-logo="http://icons.tw:8080/images/251c42eccd6ac6b833a0ad498f7b1fc1.jpg",ANTHONY JOSHUA: THE ROAD TO KLITSCHKO (2017)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47914.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WAR" tvg-logo="http://icons.tw:8080/images/f8ba66871008aa52d5bd9d4c6b2a848c.jpg",ANTHROPOID (2016)
@@ -18143,6 +18087,8 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47966.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47970.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="THRILLER" tvg-logo="http://icons.tw:8080/images/c340c8ffe32ae326741ccb258b40ff68.jpg",ASSAILANT (2022)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/200171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="https://image.tmdb.org/t/p/w400/nckPbPhQUB6HB9dGba8hWCN4xqM.jpg",ASSASSIN (2023)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265314.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SCI-FI" tvg-logo="http://icons.tw:8080/images/050094324d8a335861b29c444a26489e.jpg",ASSASSIN 33 A.D. (2020)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47971.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SCI-FI" tvg-logo="http://icons.tw:8080/images/65d6803b210b7b03dd521fd5d1072829.jpg",ASSASSIN'S CREED (2016)
@@ -18235,6 +18181,10 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48006.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/827.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="4K MOVIES" tvg-logo="http://icons.tw:8080/images/63fc14ac09aa3164dc628b322cee5e65.jpg",AVATAR (2009) 4K
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/1144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="https://image.tmdb.org/t/p/w400/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",AVATAR THE WAY OF WATER (2022)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="4K MOVIES" tvg-logo="https://image.tmdb.org/t/p/w400/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",AVATAR THE WAY OF WATER (2022) 4K
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265161.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SCI-FI" tvg-logo="http://icons.tw:8080/images/fe3e7ff3e49c2d672bcc54275ed23abd.jpg",AVENGERS: AGE OF ULTRON (2015)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48007.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SCI-FI" tvg-logo="http://icons.tw:8080/images/3bba5c8b3422b3017fed3f1939ae9c41.jpg",AVENGERS: ENDGAME (2019)
@@ -18279,7 +18229,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48024.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50245.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="THRILLER" tvg-logo="http://icons.tw:8080/images/35f43112852aba81eeaa371f8226ff9f.jpg",BABY MONEY (2021)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/148038.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/197fb9352587f562c3eecce256edba10.jpg",BABY RUBY (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/197fb9352587f562c3eecce256edba10.jpg",BABY RUBY (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/254766.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="FAMILY" tvg-logo="http://icons.tw:8080/images/a15e67d4921d0077ff77b30367e3f2f2.jpg",BABY: SECRET OF THE LOST LEGEND (1985)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48025.mp4
@@ -18497,9 +18447,9 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48093.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48094.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ROMANCE" tvg-logo="http://icons.tw:8080/images/6d6821c98013fb6009853fbba2e2cd04.jpg",BAZODEE (2016)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/7afd972e852aca27a2b18461a083fc4a.jpg",BBC MATCH OF THE DAY 18TH MARCH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/7afd972e852aca27a2b18461a083fc4a.jpg",BBC MATCH OF THE DAY 1ST APRIL
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/17080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/fe925b32bfd38172893db6d50f8e2974.jpg",BBC MATCH OF THE DAY 2 19TH MARCH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/fe925b32bfd38172893db6d50f8e2974.jpg",BBC MATCH OF THE DAY 2 2ND APRIL
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/17934.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/e8538a82c618dee7e1f1c9851e2bba66.jpg",BE BIG! (1931)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50144.mp4
@@ -18965,7 +18915,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50149.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48324.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/8bfcb63d83aeaf020159fbb6ce9fe602.jpg",BLONDE (2022)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/227810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/210c67eb57b4b2527baf3da92df5f091.jpg",BLOOD (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="THRILLER" tvg-logo="http://icons.tw:8080/images/210c67eb57b4b2527baf3da92df5f091.jpg",BLOOD (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/254755.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MARTIAL ARTS" tvg-logo="http://icons.tw:8080/images/5e3900086ec047354f0629908dcbac9b.jpg",BLOOD AND BONE (2009)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48325.mp4
@@ -19627,6 +19577,8 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/56645.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/58810.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/0671be611c18ecc3dab5639ef83cfb6d.jpg",CHAMPION (2017)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="https://image.tmdb.org/t/p/w400/i46Gke8Kg3uH2K5eM0rDo4HzPtq.jpg",CHAMPIONS (2023)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265182.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOCUMENTARY" tvg-logo="http://icons.tw:8080/images/39832490b03d0b2d47a9c1ad344bcbd8.jpg",CHAMPS (2015)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48552.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="https://image.tmdb.org/t/p/w400/ohaIkrTd47z43IuLlwwNg7bi96c.jpg",CHANG CAN DUNK (2023)
@@ -20163,6 +20115,10 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48724.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48725.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="4K MOVIES" tvg-logo="http://icons.tw:8080/images/eca73fdec50a9d844577a575f9b78609.jpg",CREED II (2018) 4K
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/1150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="https://image.tmdb.org/t/p/w400/vJU3rXSP9hwUuLeq8IpfsJShLOk.jpg",CREED III (2023)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="4K MOVIES" tvg-logo="https://image.tmdb.org/t/p/w400/vJU3rXSP9hwUuLeq8IpfsJShLOk.jpg",CREED III (2023) 4K
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265380.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HORROR" tvg-logo="http://icons.tw:8080/images/081ed9a663e8f3fb9b3aa8dd5e02e69d.jpg",CREEP (2004)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48726.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HORROR" tvg-logo="http://icons.tw:8080/images/90bf6734cf73fd8abcc7ece57d09e6d9.jpg",CREEP 2 (2017)
@@ -20387,8 +20343,6 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/161230.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50662.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOCUMENTARY" tvg-logo="http://icons.tw:8080/images/260dd49f56eb1dc235e77c088140a24b.jpg",DAVID BECKHAM: INFAMOUS (2022)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/200236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="https://image.tmdb.org/t/p/w400/yCiLZ8qA60FAEBmyGpYK42UZKyv.jpg",DAVID BENAVIDEZ VS. CALEB PLANT (2023)
-http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/264969.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOCUMENTARY" tvg-logo="http://icons.tw:8080/images/9d36d0c0e99ef038bfbc613e762868b4.jpg",DAVID BOWIE: FINDING FAME (2019)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48796.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/ae75ee39e63ca11b6579b7af9ecc9d62.jpg",DAVID BRENT: LIFE ON THE ROAD (2016)
@@ -20683,7 +20637,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48884.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48885.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ACTION" tvg-logo="http://icons.tw:8080/images/b93bac9eab77ec6bff8d940fc77ed0f8.jpg",DIE HARD: WITH A VENGEANCE (1995)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="https://image.tmdb.org/t/p/w400/ff9iMXJjtRdm58nRzM88sNr5CTu.jpg",DIE HART THE MOVIE (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ACTION" tvg-logo="https://image.tmdb.org/t/p/w400/ff9iMXJjtRdm58nRzM88sNr5CTu.jpg",DIE HART THE MOVIE (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/257455.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ACTION" tvg-logo="http://icons.tw:8080/images/9544d52749b405a3c98e1c2c61113885.jpg",DIE IN A GUNFIGHT (2021)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/127622.mp4
@@ -21213,7 +21167,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52253.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/49073.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ACTION" tvg-logo="http://icons.tw:8080/images/40a815482a2a0454b745e9d28b4ce694.jpg",EMPIRE (2002)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/187709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/d899b5b50f0b6a1aba45360a7f4c3c1f.jpg",EMPIRE OF LIGHT (2022)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/d899b5b50f0b6a1aba45360a7f4c3c1f.jpg",EMPIRE OF LIGHT (2022)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/255746.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/0aeb4aab7313d9ff65ac5dbceba4a9b5.jpg",EMPIRE RECORDS (1995)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/49074.mp4
@@ -21435,6 +21389,8 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/49148.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/49350.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ACTION" tvg-logo="http://icons.tw:8080/images/8c05bec46aecec76ca4b5ad126975cdb.jpg",F/X2 (1991)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/49349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="https://media.formula1.com/content/dam/fom-website/races/2023/Australian_Grand_Prix.png",F1 AUSTRALIAN GRAND PRIX 2023
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265632.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ACTION" tvg-logo="http://icons.tw:8080/images/787660f941add6e7357f3bbfb555cdea.jpg",F9 (2021)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/133841.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="4K MOVIES" tvg-logo="http://icons.tw:8080/images/787660f941add6e7357f3bbfb555cdea.jpg",F9 (2021) 4K
@@ -21837,7 +21793,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/49258.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/49259.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WESTERNS" tvg-logo="http://icons.tw:8080/images/7a6c5d746525c85f87ea1bce205f2501.jpg",FOR A FEW DOLLARS MORE (1965)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/49260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/3a1461dcf132a9337fccae7727533101.jpg",FOR ALL HUMANKIND (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DOCUMENTARY" tvg-logo="http://icons.tw:8080/images/3a1461dcf132a9337fccae7727533101.jpg",FOR ALL HUMANKIND (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/255716.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOCUMENTARY" tvg-logo="http://icons.tw:8080/images/e8f8ec999ce4891775853af3a2fad484.jpg",FOR ALL MANKIND (1989)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/203313.mp4
@@ -22583,6 +22539,8 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/150887.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/264788.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WESTERNS" tvg-logo="http://icons.tw:8080/images/0a9c21e0bb0f4ccf83e84477a03777c9.jpg",GUNFIGHT AT THE O.K. CORRAL (1957)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/49512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="https://image.tmdb.org/t/p/w400/sxnlQEb8dugTFK2KyFrq3iv3bHn.jpg",GUNG HO (1986)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265260.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ACTION" tvg-logo="http://icons.tw:8080/images/589ad2baa4e13b4263e5e2655f665af6.jpg",GUNPOWDER MILKSHAKE (2021)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/128555.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/e24bcf5904e4c6b26b67be2994314cc6.jpg",GUNS AKIMBO (2019)
@@ -23353,7 +23311,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/49796.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/163703.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HORROR" tvg-logo="http://icons.tw:8080/images/d56cb64761b62dbc42ce3e408246e965.jpg",IMMANENCE (2022)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/190047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/07891a109f3b544688dc22963254704e.jpg",IMPACT WRESTLING 23RD MARCH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/07891a109f3b544688dc22963254704e.jpg",IMPACT WRESTLING 30TH MARCH
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/53301.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MYSTERY" tvg-logo="http://icons.tw:8080/images/799a2d93d4cb26d00fa5cc73f5b13a89.jpg",IMPERFECTIONS (2016)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/49801.mp4
@@ -23443,7 +23401,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/119861.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/200393.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SCI-FI" tvg-logo="http://icons.tw:8080/images/fbc6f1bc3022c674da495ddf5498ef08.jpg",INFINITUM: SUBJECT UNKNOWN (2021)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/80629.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/004ef64b65554fb2becbd94212d899be.jpg",INFINITY POOL (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="HORROR" tvg-logo="http://icons.tw:8080/images/004ef64b65554fb2becbd94212d899be.jpg",INFINITY POOL (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/256434.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/e483afcf1474f65c569d55df07e93b8b.jpg",INFLUENCE (2020)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/237614.mp4
@@ -24209,7 +24167,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50091.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50092.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/02886b4fa1624d302e7fafa0fea8ad64.jpg",KNIVES OUT (2019)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50093.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/9fd9e0ad4aabc6b3c3a3e14b869ff1fe.jpg",KNOCK AT THE CABIN (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="HORROR" tvg-logo="http://icons.tw:8080/images/9fd9e0ad4aabc6b3c3a3e14b869ff1fe.jpg",KNOCK AT THE CABIN (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/256976.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="THRILLER" tvg-logo="http://icons.tw:8080/images/24907813f7135f72e27f61973749b3d8.jpg",KNOCK KNOCK (2015)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50095.mp4
@@ -24441,7 +24399,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/56850.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/169913.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HORROR" tvg-logo="http://icons.tw:8080/images/3587a5b196922e6b6b11f26a72d3f5ef.jpg",LEGION (2010)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/8e7a5778b7377b735a39c67f55f6b6cb.jpg",LEGION OF SUPER-HEROES (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SCI-FI" tvg-logo="http://icons.tw:8080/images/8e7a5778b7377b735a39c67f55f6b6cb.jpg",LEGION OF SUPER-HEROES (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/253616.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="FAMILY" tvg-logo="http://icons.tw:8080/images/db826875676de13d1de9be715a6a767b.jpg",LEGO DC COMICS SUPER HEROES: THE FLASH (2018)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50239.mp4
@@ -24785,6 +24743,22 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/250039.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/250307.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HORROR" tvg-logo="http://icons.tw:8080/images/9ec0feba8a7fef2cf501da5f9157a79c.jpg",MA (2019)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="https://image.tmdb.org/t/p/w400/52G6WpfuaqgLuZX18G3wyjR5Sb4.jpg",MA AND PA KETTLE (1949)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="https://image.tmdb.org/t/p/w400/fypWEpBjRHvuJxd7edaewv9laS6.jpg",MA AND PA KETTLE AT HOME (1954)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="https://image.tmdb.org/t/p/w400/lqLodTRC10mSjD4yLwU9h9VtARl.jpg",MA AND PA KETTLE AT THE FAIR (1952)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="https://image.tmdb.org/t/p/w400/lEXi7I4VHkHr99ibWdh8wyn7IW7.jpg",MA AND PA KETTLE AT WAIKIKI (1955)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="https://image.tmdb.org/t/p/w400/po0rhJbVcUt0e7NyzAovwj5bp2K.jpg",MA AND PA KETTLE BACK ON THE FARM (1951)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="https://image.tmdb.org/t/p/w400/sbtKSsHZsCVmVBTeI0XV1RtP7RF.jpg",MA AND PA KETTLE GO TO TOWN (1950)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDdjYTgzYzQtYjI0NS00NTIzLTlhNzktZmEwYjYyNGQzMjgwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_FMjpg_UX1000_.jpg",MA AND PA KETTLE IN THE EGG AND I  (1947)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="https://image.tmdb.org/t/p/w400/vDXaDTrfpsgtiqbUJU7UmchWp76.jpg",MA AND PA KETTLE ON VACATION (1953)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265394.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/c994b6d3e8637686f2cc796a0f061268.jpg",MA RAINEY'S BLACK BOTTOM (2020)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/118145.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/99558ca56187151571da4d80cdf03b9c.jpg",MAC & DEVIN GO TO HIGH SCHOOL (2012)
@@ -24861,7 +24835,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/226314.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/263124.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="https://image.tmdb.org/t/p/w400/mXWbLqTWziO9aAyWMBzVnDSP57t.jpg",MAGIC MIKE XXL (2015)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/263125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="https://image.tmdb.org/t/p/w400/9a9pyJZRhUWUSBT8BQqWihtqbI8.jpg",MAGIC MIKES LAST DANCE (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="https://image.tmdb.org/t/p/w400/9a9pyJZRhUWUSBT8BQqWihtqbI8.jpg",MAGIC MIKES LAST DANCE (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/262782.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="THRILLER" tvg-logo="http://icons.tw:8080/images/3e0a40a777357fe7abf0a3abaca35542.jpg",MAGIC MOUNTAINS (2020)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/117554.mp4
@@ -25067,7 +25041,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50438.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/123619.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/cb75f4f4c994ac09ad687413b577d070.jpg",MAYA AND HER LOVER (2021)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/219186.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/6068b86720c58c0669a063286067479d.jpg",MAYBE I DO (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/6068b86720c58c0669a063286067479d.jpg",MAYBE I DO (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/256715.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ACTION" tvg-logo="http://icons.tw:8080/images/f1fc8362b8a36db473a8de85a4e31297.jpg",MAYHEM (2017)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50439.mp4
@@ -25571,6 +25545,8 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50608.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50541.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/5bb1367ce7bbc2b349e538150b82cca7.jpg",MURDER MYSTERY (2019)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="https://image.tmdb.org/t/p/w400/5wpVy0KUWzDKDKgrayM0Q8lXOiK.jpg",MURDER MYSTERY 2 (2023)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265361.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/c93a61f814b6e79b28fb65550da22748.jpg",MURDER ON THE ORIENT EXPRESS (2017)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50610.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MYSTERY" tvg-logo="http://icons.tw:8080/images/af69045fae7bc9b6cc24e400937055e4.jpg",MURDER SHE SAID (1961)
@@ -25815,6 +25791,8 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/93905.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50176.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/22314d1c24c323a17e318e89402d132a.jpg",NIGHT SCHOOL (2018)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="https://image.tmdb.org/t/p/w400/srd48SpmL8KNjPYCobCEAbgohYK.jpg",NIGHT SHIFT (1982)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265261.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HORROR" tvg-logo="http://icons.tw:8080/images/5e4065acb81767ffd952a1eef10952a7.jpg",NIGHT SHIFT (2018)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50691.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="THRILLER" tvg-logo="http://icons.tw:8080/images/10a062717aa9253be194ad83507924ad.jpg",NIGHT TEETH (2021)
@@ -25981,6 +25959,8 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/148030.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50742.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/e45029677fc07d9dd41525acfa1f1de4.jpg",NUTTY PROFESSOR II: THE KLUMPS (2000)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="https://image.tmdb.org/t/p/w400/1cfX0rLJXhhvUHRcA0Kq3lBjRec.jpg",NXT STAND & DELIVER 2023
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265609.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOCUMENTARY" tvg-logo="http://icons.tw:8080/images/1a1d1f94f1a4d1772c9c89df930127e5.jpg",NYC POINT GODS (2022)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/223052.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/44d9151c6f19e0ea3745fc2406d90a84.jpg",NYMPHOMANIAC: VOL. I (2013)
@@ -26069,6 +26049,8 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50775.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52476.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HORROR" tvg-logo="http://icons.tw:8080/images/ed8d28992220d1d7868c0a9331b3b12a.jpg",OMEN IV: THE AWAKENING (1991)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="https://image.tmdb.org/t/p/w400/wx3U05u7Yq7Nu9xw75LfhqaSPP5.jpg",ON A WING AND A PRAYER (2023)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265259.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ACTION" tvg-logo="http://icons.tw:8080/images/628d745a7fe9a44452688fa94f44b18b.jpg",ON HER MAJESTY'S SECRET SERVICE (1969)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47551.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/710760beea0ef75661d9a40227787f12.jpg",ON THE BASIS OF SEX (2018)
@@ -26671,7 +26653,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/220527.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/148859.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HORROR" tvg-logo="http://icons.tw:8080/images/d6319b5f2c8610069ff65de7867b45a7.jpg",PLAN Z (2016)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/476d59115998b1f47e05bded94d551a7.jpg",PLANE (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ACTION" tvg-logo="http://icons.tw:8080/images/476d59115998b1f47e05bded94d551a7.jpg",PLANE (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/253826.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="4K MOVIES" tvg-logo="http://icons.tw:8080/images/476d59115998b1f47e05bded94d551a7.jpg",PLANE (2023) 4K
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/254330.mkv
@@ -28059,7 +28041,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/51381.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/106931.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MARTIAL ARTS" tvg-logo="http://icons.tw:8080/images/767430d947866439fffe9dac6a01dfc2.jpg",SHARP FISTS IN KUNG FU (1974)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/56863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/129d8a707e6a4c1f0185b8d8d5c751b4.jpg",SHARPER (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/129d8a707e6a4c1f0185b8d8d5c751b4.jpg",SHARPER (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/256654.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOCUMENTARY" tvg-logo="http://icons.tw:8080/images/7b34ae71df0742a0690c6eae61946993.jpg",SHATNER IN SPACE (2021)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/181896.mp4
@@ -28647,7 +28629,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/51557.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/51558.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/150bbb50e76e890bb436416c4d957cef.jpg",STAN & OLLIE (2018)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/51559.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/349eb6141ec952abad85e7830f7695a7.jpg",STAND (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DOCUMENTARY" tvg-logo="http://icons.tw:8080/images/349eb6141ec952abad85e7830f7695a7.jpg",STAND (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/253838.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/d8f85ded5cf0c35dfb8fcb7672052de5.jpg",STAND AND DELIVER (1988)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/51560.mp4
@@ -29175,6 +29157,8 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/51401.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/217624.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SCI-FI" tvg-logo="http://icons.tw:8080/images/66b264bb3b7d1ce3e9b6e7423b401c9e.jpg",TETHERED (2021)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/157426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="https://image.tmdb.org/t/p/w400/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg",TETRIS (2023)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265315.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WESTERNS" tvg-logo="http://icons.tw:8080/images/4ce251174822e5ad5335fdbd3429167c.jpg",TEXAS ACROSS THE RIVER (1966)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/51766.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HORROR" tvg-logo="http://icons.tw:8080/images/0177ae90c9628df17681a735f9b4880a.jpg",TEXAS CHAINSAW MASSACRE (2022)
@@ -29623,6 +29607,8 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/51911.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/51912.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/8c180f7f61ca6a717fecb546b11f72a0.jpg",THE CANTERVILLE GHOST (1996)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="https://image.tmdb.org/t/p/w400/wLoFxTZFEfAzFLk2qSoPbcz58Jb.jpg",THE CAPTIVE (2014)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265178.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HORROR" tvg-logo="http://icons.tw:8080/images/17eb77683cc49c847bae0693927d04af.jpg",THE CAR (1977)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/51914.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/2846756d75705a513715e906c1494b98.jpg",THE CARD COUNTER (2021)
@@ -30695,6 +30681,10 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/58408.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52265.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WAR" tvg-logo="http://icons.tw:8080/images/014ed615b2079df49db2e4b5fac189e5.jpg",THE KEEPER (2019)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="https://image.tmdb.org/t/p/w400/rBeXCz4LECsMGQIvnoLC81HjiUJ.jpg",THE KETTLES IN THE OZARKS (1956)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="https://image.tmdb.org/t/p/w400/jMDfLQBTX4jxwxzMsedgMPFjArd.jpg",THE KETTLES ON OLD MACDONALD'S FARM (1957)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265389.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WESTERNS" tvg-logo="http://icons.tw:8080/images/ec7e26cc67757cc48f3e49eec7035ab7.jpg",THE KID (2019)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52267.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="FAMILY" tvg-logo="http://icons.tw:8080/images/06a170c7fccf809e89ab9483947f0622.jpg",THE KID WHO WOULD BE KING (2019)
@@ -30953,6 +30943,8 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52358.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52359.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="THRILLER" tvg-logo="http://icons.tw:8080/images/171435c2227b349f6d6d04ad040e750c.jpg",THE LITTLE THINGS (2021)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/99161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="FAMILY" tvg-logo="https://image.tmdb.org/t/p/w400/zBGfZGKX3KJnljxsX6r24lzRe0i.jpg",THE LITTLE VAMPIRE (2000)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265169.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="FAMILY" tvg-logo="http://icons.tw:8080/images/b7b8d93f5c54b29032a977e5ec4c101e.jpg",THE LITTLE VAMPIRE 3D (2017)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52360.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/79271b80fde4c46cd07da6cf816fca45.jpg",THE LIVE GHOST (1934)
@@ -30963,7 +30955,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47561.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52361.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HORROR" tvg-logo="http://icons.tw:8080/images/c0c03667c82ed75cb53cb6209758dc3c.jpg",THE LOCKDOWN HAUNTINGS (2021)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/100767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/074514bea6f875b96ea7a05b6bec4c79.jpg",THE LOCKSMITH (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="THRILLER" tvg-logo="http://icons.tw:8080/images/074514bea6f875b96ea7a05b6bec4c79.jpg",THE LOCKSMITH (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/254756.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HORROR" tvg-logo="http://icons.tw:8080/images/4953eade4a29f0575d3a342d0b9ce45c.jpg",THE LODGE (2020)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52362.mp4
@@ -31551,6 +31543,8 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52543.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52544.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="FAMILY" tvg-logo="http://icons.tw:8080/images/ccb54114df6357c1c4cd27007e356654.jpg",THE QUEEN'S CORGI (2019)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="https://image.tmdb.org/t/p/w400/2STSAhc2H000WPURLfHTm9dN9OK.jpg",THE QUEST FOR TOM SAWYERS GOLD (2023)
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265183.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WESTERNS" tvg-logo="http://icons.tw:8080/images/80e2aa81d797c23c474fe34c1dff973a.jpg",THE QUICK AND THE DEAD (1995)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52546.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/b4ac8c7699943a22d13359d9cf886950.jpg",THE QUIET MAN (1952)
@@ -31575,7 +31569,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52551.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/143223.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/cfea8a51b5fbaacd09596882dc7a33d7.jpg",THE READER (2008)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/4fbeab4dc40f935adc019ed785a3114b.jpg",THE READING (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/4fbeab4dc40f935adc019ed785a3114b.jpg",THE READING (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/256002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOCUMENTARY" tvg-logo="http://icons.tw:8080/images/1f099b8a937b87a71a6a09160e09f29b.jpg",THE REAL CHARLIE CHAPLIN (2021)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/181323.mp4
@@ -31843,7 +31837,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52633.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52634.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/1945c7810da22be2a639e01eba51cd8a.jpg",THE SOCIAL NETWORK (2010)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/d9199caddf63d6ccd8981005fe42b174.jpg",THE SON (2022)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/d9199caddf63d6ccd8981005fe42b174.jpg",THE SON (2022)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/256001.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HORROR" tvg-logo="http://icons.tw:8080/images/596354015d145859691a7a1de42150e1.jpg",THE SONATA (2019)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52636.mp4
@@ -31917,7 +31911,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52653.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/51697.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="FAMILY" tvg-logo="http://icons.tw:8080/images/d3fb57835c278ef1657eacc6ef145d98.jpg",THE STRAY (2017)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52654.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="https://image.tmdb.org/t/p/w400/3OKBFYRVSKkBVJ7WpKogTVQfUqC.jpg",THE STRAYS (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="THRILLER" tvg-logo="https://image.tmdb.org/t/p/w400/3OKBFYRVSKkBVJ7WpKogTVQfUqC.jpg",THE STRAYS (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/257456.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ACTION" tvg-logo="http://icons.tw:8080/images/489c8d2484af4890ffe067988827afa4.jpg",THE SUICIDE SQUAD (2021)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/137923.mp4
@@ -32223,7 +32217,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52738.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52740.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/a45a0b0d691ed6cae6c26b1808b6dcba.jpg",THE WEEK OF (2018)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/19e8ab493329123f92288d1dcef939b6.jpg",THE WHALE (2022)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/19e8ab493329123f92288d1dcef939b6.jpg",THE WHALE (2022)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/256977.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/d59439ecbe798068a1e812bfef096138.jpg",THE WHALEBONE BOX (2019)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52741.mp4
@@ -32827,7 +32821,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48293.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52914.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ACTION" tvg-logo="http://icons.tw:8080/images/aedc8e382e2ceda75b574c86c8987836.jpg",TRUE ROMANCE (1993)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/9f331c1588aa33157e8168dfdf10ecc9.jpg",TRUE SPIRIT (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="FAMILY" tvg-logo="http://icons.tw:8080/images/9f331c1588aa33157e8168dfdf10ecc9.jpg",TRUE SPIRIT (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/254289.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BLACK ENTERTAINMENT" tvg-logo="http://icons.tw:8080/images/e4c66529b97b3c0b92dc22a05833f6c4.jpg",TRUE TO THE GAME (2017)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52916.mp4
@@ -33493,10 +33487,6 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/264402.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/264452.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="UFC CLASSICS" tvg-logo="https://image.tmdb.org/t/p/w400/uqZ5dekOlzoH7rrIrIERYLyKoMT.jpg",UFC 9: MOTOR CITY MADNESS
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/264466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="https://image.tmdb.org/t/p/w400/2FhZWBGepzRC7bZTAHGc3QvJ7NW.jpg",UFC ON ESPN 43: VERA VS. SANDHAGEN (2023)
-http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/264930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="https://image.tmdb.org/t/p/w400/2FhZWBGepzRC7bZTAHGc3QvJ7NW.jpg",UFC ON ESPN 43: VERA VS. SANDHAGEN - PRELIMS (2023)
-http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/264918.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SCI-FI" tvg-logo="http://icons.tw:8080/images/c6cb4de1890608f7451c754cddeb5d92.jpg",UFO (2018)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52946.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="FAMILY" tvg-logo="http://icons.tw:8080/images/f38dd893caa3f8eed8eb8fac1a6e63e5.jpg",UGLYDOLLS (2019)
@@ -33537,7 +33527,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52956.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/196547.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="THRILLER" tvg-logo="http://icons.tw:8080/images/7edeb15752a4210d73fd96ed8be2a269.jpg",UNCUT GEMS (2019)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/42d818b180eab9e35a3ccf46cde0e807.jpg",UNDER HIS INFLUENCE (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="THRILLER" tvg-logo="http://icons.tw:8080/images/42d818b180eab9e35a3ccf46cde0e807.jpg",UNDER HIS INFLUENCE (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/257379.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ACTION" tvg-logo="http://icons.tw:8080/images/cde16bed83ef903452efc9dc8aa425fa.jpg",UNDER SIEGE (1992)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/52960.mp4
@@ -33937,7 +33927,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/53080.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50215.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WAR" tvg-logo="http://icons.tw:8080/images/5a946b571d66132a2641aa1937cab8d7.jpg",WE GO IN AT DAWN (2020)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/53081.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="https://image.tmdb.org/t/p/w400/xo0fgAUoEeVQ7KsKeMWypyglvnf.jpg",WE HAVE A GHOST (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="FAMILY" tvg-logo="https://image.tmdb.org/t/p/w400/xo0fgAUoEeVQ7KsKeMWypyglvnf.jpg",WE HAVE A GHOST (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/257457.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MYSTERY" tvg-logo="http://icons.tw:8080/images/fb63e4d8387fdae8b68d7babcba8c1e3.jpg",WE HAVE ALWAYS LIVED IN THE CASTLE (2019)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/53082.mp4
@@ -34129,7 +34119,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/165119.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/53139.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="STAND-UP" tvg-logo="http://icons.tw:8080/images/3a61b620691817935a3706886e48fd25.jpg",WHITNEY CUMMINGS: JOKES (2022)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/221979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/3933056687c071088a9445cf6d415cfd.jpg",WHITNEY HOUSTON: I WANNA DANCE WITH SOMEBODY (2022)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/3933056687c071088a9445cf6d415cfd.jpg",WHITNEY HOUSTON: I WANNA DANCE WITH SOMEBODY (2022)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/255747.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ACTION" tvg-logo="http://icons.tw:8080/images/b4cd2bac5b25e905c2863673f3419331.jpg",WHO AM I? (1998)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/49911.mp4
@@ -34295,7 +34285,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/82853.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/48295.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/8327d9e3576b99717dc8496eca4d74dc.jpg",WOMEN IS LOSERS (2021)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/167011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/3c7c1b4431cfa47c3ba4a4c1c095ae96.jpg",WOMEN TALKING (2022)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/3c7c1b4431cfa47c3ba4a4c1c095ae96.jpg",WOMEN TALKING (2022)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/256978.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/d8dddfde8fb2eaace1b8727e266295b7.jpg",WONDER (2017)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/53179.mp4
@@ -34367,15 +34357,17 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/53200.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/53201.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MARTIAL ARTS" tvg-logo="http://icons.tw:8080/images/4da3d6871c44b099aeb9420e917f61ee.jpg",WU TANG MAGIC KICK (1977)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/59018.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/e80837b614d9eea38feed0f375fd76a3.jpg",WWE FRIDAY NIGHT SMACKDOWN 24TH MARCH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/e80837b614d9eea38feed0f375fd76a3.jpg",WWE FRIDAY NIGHT SMACKDOWN 31ST MARCH
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/53298.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/a228047b80662a1dd11dae660607830d.jpg",WWE MONDAY NIGHT RAW 20TH MARCH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="https://image.tmdb.org/t/p/w400/qinxXQ9Btp5sRXDZ0T22nBCUx5I.jpg",WWE HALL OF FAME 2023
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/a228047b80662a1dd11dae660607830d.jpg",WWE MONDAY NIGHT RAW 27TH MARCH
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47234.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WWE CLASSICS" tvg-logo="http://icons.tw:8080/images/18f5e0cea8b4650328b07b8c8f4c6fcb.jpg",WWE MONEY IN THE BANK 2022 (2022)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/218026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/97c7216c333062506867a313cbf78bdd.jpg",WWE NXT 21ST MARCH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/97c7216c333062506867a313cbf78bdd.jpg",WWE NXT 28TH MARCH
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/53299.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/f3bdc0839f7bf40878e16e96f67a84ec.jpg",WWE NXT LEVEL UP 24TH MARCH
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="http://icons.tw:8080/images/f3bdc0839f7bf40878e16e96f67a84ec.jpg",WWE NXT LEVEL UP 31ST MARCH
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/53297.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WWE CLASSICS" tvg-logo="http://icons.tw:8080/images/2d61fd85cbde08f8db8615ee8df0f4dc.jpg",WWE ROYAL RUMBLE 1988 (1988)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/213773.mp4
@@ -34513,6 +34505,8 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/217318.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/222687.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WWE CLASSICS" tvg-logo="http://icons.tw:8080/images/e45f30b3c4b4238205ec7452c0e367b6.jpg",WWE WRESTLEMANIA (1985)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/213394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS REPLAYS" tvg-logo="https://image.tmdb.org/t/p/w400/pMerzBmIXKMTXYNSfTo0UBoriUK.jpg",WWE WRESTLEMANIA 39 SATURDAY
+http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/265611.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WWE CLASSICS" tvg-logo="http://icons.tw:8080/images/8e07cfe9ed8b6b56ec66a77195129f94.jpg",WWE WRESTLEMANIA II (1986)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/213395.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WWE CLASSICS" tvg-logo="http://icons.tw:8080/images/a0aa2614b1d947a6c7ab606d19ca3d31.jpg",WWE WRESTLEMANIA III (1987)
@@ -34649,7 +34643,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/53219.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/162482.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="ACTION" tvg-logo="http://icons.tw:8080/images/15e770b9da6549740381ebf4c4ad9f4a.jpg",YOU ONLY LIVE TWICE (1967)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/47550.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/53e69a463c07687cc264794d38dd2d9d.jpg",YOU PEOPLE (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/53e69a463c07687cc264794d38dd2d9d.jpg",YOU PEOPLE (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/251218.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="HORROR" tvg-logo="http://icons.tw:8080/images/d0ecf10681819cb78558398a49ff2b21.jpg",YOU SHOULD HAVE LEFT (2020)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/197060.mp4
@@ -34679,7 +34673,7 @@ http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/53224.mp4
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/237490.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DRAMA" tvg-logo="http://icons.tw:8080/images/99df43edc20575eb746956d3920ec7dc.jpg",YOUR NAME. (2016)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/53225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="NEW RELEASES" tvg-logo="http://icons.tw:8080/images/6bea175ad4ed0e4aadaee350bc720132.jpg",YOUR PLACE OR MINE (2023)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/6bea175ad4ed0e4aadaee350bc720132.jpg",YOUR PLACE OR MINE (2023)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/256000.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="COMEDY" tvg-logo="http://icons.tw:8080/images/4427f45eee8aa149febb297c7499bc0c.jpg",YOU’RE DARN TOOTIN’ (1928)
 http://wayforward.xyz:25461/movie/ASistrunk14/ueLdZWa46g84/50219.mp4
